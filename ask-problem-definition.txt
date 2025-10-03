@@ -1,0 +1,76 @@
+# Problem Definition Framework
+# Use this template to clearly define your management problem
+
+Project Topic: Remote employee performance
+
+## X → Y Framework
+### Current State (X - What's happening now that's problematic?)
+[Describe the current situation that needs to be changed]
+
+### Desired State (Y - What outcome do we want to achieve?)
+[Describe the ideal situation you want to reach]
+
+## PICOC Framework
+### Population (P - Who is affected by this problem?)
+Remote and hybrid employees
+
+### Intervention (I - What solution/action are we considering?)
+A combined program of: weekly synchronous team check-ins, outcome-based daily stand-up reporting (asynchronous), and short microlearning modules on remote work best practices; plus manager coaching on engagement conversations.
+
+### Comparison (C - What alternatives exist?)
+Current practice of manager-driven ad-hoc check-ins and email-based status updates (baseline); alternative: more invasive monitoring tools (time tracking) which we will avoid.
+
+### Outcomes (O - What will success look like?)
+- Increase employee engagement
+
+### Context (C - Where/when does this apply?)
+[Applies to US-based remote and hybrid staff at AcmeCo (regional offices + remote), during Q4 2025 ramp-up; limited hiring budget and emphasis on productivity without invasive monitoring.]
+
+### Quick PICOC (remote engagement - concise)
+- Population: Remote and hybrid employees
+- Intervention: Weekly synchronous team check-ins + asynchronous daily outcome reporting + microlearning + manager coaching
+- Comparison: Current ad-hoc check-ins and email updates (no structured program)
+- Outcomes: Increase employee engagement
+- Context: US-based hybrid/remote workforce; limited hiring budget; focus on non-invasive engagement strategies
+
+### Quick PICOC Template (ready to fill)
+- Population: [e.g., Front-line customer service team (50 agents)]
+- Intervention/Issue: [e.g., High average call-handling time; implement staggered shifts]
+- Comparison: [optional - e.g., current schedule vs. staggered shifts]
+- Outcomes: [e.g., reduce average handle time by 20%; increase CSAT by 5 pts in 3 months]
+- Context: [e.g., Mid-size online retailer; hybrid work; limited hiring budget]
+
+## Clear Problem Statement
+Problem statement: Remote and hybrid employees at AcmeCo show declining engagement and inconsistent task completion when working from home, measured by low pulse survey scores and increased unplanned absences; this reduces overall productivity and business outcomes.
+
+Key metrics to track: weekly pulse engagement score, unplanned absence incidents, task completion rate (sampled), relevant customer or business outcomes where applicable.
+
+Proposed pilot: run a 12-week pilot with three teams across functions (approx. 45 employees) implementing the intervention and compare against matched control teams using historical and contemporaneous data.
+
+## Why This Problem Matters
+### Impact on Organization
+[Explain the consequences if this problem isn't addressed]
+
+### Stakeholder Impact
+[Describe how different groups are affected]
+
+### Strategic Alignment
+[Connect to organizational goals and priorities]
+
+## Evidence Questions to Explore
+### For the Problem (Step 2)
+- What evidence shows this problem exists?
+- How widespread is this problem?
+- What are the root causes?
+
+### For the Solution (Step 4)
+- What evidence supports our preferred solution?
+- Has this solution worked in similar contexts?
+- What are the potential risks and benefits?
+
+---
+INSTRUCTIONS: 
+1. Replace all bracketed placeholders with your specific content
+2. Use GitHub Copilot to help with writing and organization
+3. Reference Module 2 content for framework guidance
+4. Save frequently and commit to GitHub

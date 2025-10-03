@@ -1,0 +1,118 @@
+## Search Strategy (CEBMa-aligned)
+
+### Databases to prioritize
+- Business Source Complete / Business Source Premier (EBSCO)
+- PsycINFO / Psychology & Behavioral Sciences
+- Scopus (broad multidisciplinary coverage)
+- Web of Science
+- Google Scholar (use for forward/backward citation chaining)
+- CEBMa textbook and course materials (use as method guidance)
+- JSTOR/SSRN for working papers and older literature
+
+### Search fields and syntax (TI() / AB() guidance)
+- Use TI() to target title searches and AB() for abstract searches where supported. Example patterns:
+	- TI("hybrid work" OR "remote work") AND AB("employee engagement" OR "productivity")
+	- TI(hybrid OR remote) AND AB("work from home" AND (productiv* OR engagement))
+- Use phrase quotes for exact phrases and truncation (*) for word stems (e.g., productiv*).
+
+### Boolean best-practices
+- Start broad with OR between synonyms, then narrow using AND. Avoid overly long single queries in one engine; break into focused queries.
+- Use exact phrase searches for policy or role names ("work from home") and field-specific qualifiers (TI(), AB()).
+
+### Redundancy testing and hit analysis
+- Run the same query across multiple databases and record hit counts. If a focused query returns 0–2 hits, broaden terms or search fields.
+- Document redundancy: which databases returned unique records vs duplicates. Keep a short table of hits by database and query.
+
+### Example search strings (adapt per database syntax)
+- Business Source Complete example:
+	- TI("hybrid work" OR "remote work") AND AB("employee engagement" OR productiv*)
+- Scopus example:
+	- TITLE("hybrid work" OR "remote work") AND (ABS("employee engagement" OR productiv*))
+- Google Scholar approach:
+	- "hybrid work" "employee engagement" (use citation chaining and limit to recent years)
+
+### Search filters to apply (document choices)
+- Date Range: e.g., 2015–2025 (justify if narrower)
+- Language: English (note limitations)
+- Study Types: prioritize systematic reviews, RCTs, quasi-experimental, observational for context
+- Geographic/Industry scope: note any restrictions and why
+
+## Selection Criteria (CEBMa guidance)
+
+### Inclusion Criteria
+- Empirical studies reporting measures of employee engagement or performance in remote/hybrid contexts
+- Systematic reviews or meta-analyses on remote work, hybrid work, or teleworking
+- Studies with clear methods and measurable outcomes (quantitative or mixed-methods)
+
+### Exclusion Criteria
+- Opinion pieces, blog posts, or unreviewed white papers unless used for background context
+- Studies focused solely on gig/contractor platforms if not analogous to the target population
+
+## Screening and Documentation (PRISMA-style)
+
+- Keep a reproducible log of each search: date, database, exact query, and hit count.
+- Use a PRISMA flow approach: total hits → deduplicated → screened by title/abstract → full-text assessed → included.
+- Record reasons for exclusion at full-text stage (population mismatch, no relevant outcomes, poor methods).
+
+## Quality Assessment (study-specific appraisal)
+
+### Design hierarchy (use CEBMa emphasis on study design relevance)
+1. Systematic reviews/meta-analyses
+2. Randomized trials
+3. Controlled quasi-experiments
+4. Longitudinal cohort studies
+5. Cross-sectional surveys (useful for prevalence and association)
+6. Case studies and qualitative research (contextual insight)
+
+### Appraisal focus areas
+- Internal validity: selection bias, confounding, measurement reliability
+- External validity: applicability to your organizational context
+- Precision: sample size, confidence intervals
+- Reporting quality and transparency
+
+## Data extraction template (suggested fields)
+- Citation
+- Study aims and questions
+- Design and sample
+- Setting and population
+- Interventions/exposures
+- Outcomes and measures (engagement/performance definitions)
+- Key results and effect sizes
+- Quality appraisal notes
+- Relevance to project
+
+## Redundancy testing & sensitivity checks
+- After initial inclusion, perform sensitivity checks (exclude low-quality studies, or test effect of different inclusion criteria) and report changes to conclusions.
+
+## Documentation process and reproducibility
+- Store search logs (queries + hit counts) and extracted data in a single folder (e.g., /data/search-logs/).
+- Keep a citation manager (Zotero/EndNote/Mendeley) for all retrieved records and PDFs.
+
+## Challenges and limitations
+- Note database access restrictions and any paywalled content. Use institutional library access or request articles via interlibrary loan when needed.
+
+---
+INSTRUCTIONS (practical)
+1. Start with focused TI()/AB() queries and document hits per database.
+2. Use Boolean best-practices and truncation; keep track of exact strings used.
+3. Run redundancy checks and prune duplicates before screening.
+4. Keep a PRISMA-style flow and record exclusion reasons.
+5. Apply CEBMa appraisal focus areas when assessing study quality and document sensitivity analyses.
+[Document any issues with your search process]
+
+### Search Limitations
+[What couldn't you access or find?]
+
+### Resource Constraints
+[Time, database access, or other limitations]
+
+### Topic-Specific Challenges
+[Issues unique to your research area]
+
+---
+INSTRUCTIONS:
+1. Be systematic and comprehensive in your approach
+2. Document everything so others could replicate your search
+3. Focus on research relevant to both your problem AND potential solutions
+4. Use library resources and ask librarians for help with database searches
+5. Keep detailed records of what you find and why you include/exclude studies
