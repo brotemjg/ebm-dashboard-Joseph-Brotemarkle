@@ -1,0 +1,90 @@
+# Problem Definition Framework
+# Use this template to clearly define your management problem
+
+Project Topic: Work from home team cohesion
+
+## X → Y Framework
+### Current State 
+During the COVID-19 pandemic, many companies opted to, or were forced, to have their employees work remotely. When companies began to move back to an in-person workplace, many employees felt more comfortable keeping their remote work arrangements. Because so many employees now opt to continue to work from home, many organzations are finding issues with team cohesion and performance steming from these employees.
+
+### Desired State (Y - What outcome do we want to achieve?)
+[Describe the ideal situation you want to reach]
+
+The ideal state is one in which employees who work from home or remotely can work in teams without their remote status effecting the cohesion or performance of their teams.
+
+## PICOC Framework
+### Population (P - Who is affected by this problem?)
+
+Work from home or remote work employees working in teams, organizations with remote workers.
+
+### Intervention 
+The intervention we are considering is moving work from home and remote employees to hybrid schedules. Instead of working entirely online and through things like Zoom or Google teams, teams would also be able to meet in person weekly.
+
+### Comparison 
+Current practice of manager-driven ad-hoc check-ins and email-based status updates. There are also more invasive monitoring tools like time tracking, mouse tracking, camera monitoring, etc.
+
+### Outcomes 
+The outcomes we are hopoing/expecting to see are increased team performance and cohesion among hybrid/semi-remote 
+
+### Context 
+The context is within organizations with remote workers that work in teams. Specifically this is for organizations who have seen or are concerned with cohensiona nd performance of these remote workers and how well they work within their teams.
+
+### Quick PICOC (hybrid work - concise)
+- Population: Remote employees, teams involving work from home employees
+- Intervention: Moving work from home employees to hybrid schedules to work with their teams once a week at least.
+- Comparison: Current pratice by managers to keep remote employees engages.
+- Outcomes: Increased performance and cohesion amongst remote teams.
+- Context: US-based remote workforce. Organizations with remote teams concerned with team performance.
+
+### Quick PICOC Template (ready to fill)
+- Population: Remote workforce
+- Intervention/Issue: Moving remote employees to hybrid schedules.
+- Comparison: Allowing remote teams to operate as they currently are with little or no management intervention.
+- Outcomes: Employees in remote teams feel more connected to their coworkers and managers note an increase in team performance.
+- Context: Large corporate firms operate divisions with teams.
+
+## Clear Problem Statement
+Problem statement: Employees working remotely for large firms in teams have been found to percieve themselves as having low cohesion with the teams they work in. Team cohesion is directly correlated to team performanc and output. Firms want to offer their employees the ability to work from home for the many benefits, while also not havign to sacrifice the performance and coworker connection that comes with working in-person.
+
+Key metrics to track: Employee satisfaction and perception of cohesion within their respective teams. These should be recorded in weekly surveys and interviews with remote team members
+
+Proposed pilot: Run an 12 week pilot in which the first 6 weeks employees take the surveys and interviews without any interventions to create a baseline. The second 6 weeks will be intervened by making the remote workers come in one day a week. This day will be chosen ahead of time so all remote employees can come in on the same day. The team(s) and managers will then take the survey and interviews and their percieved cohesion and performance will be noted and compared against the baseline.
+
+## Why This Problem Matters
+### Impact on Organization
+If this problem is not addressed than the disfunctionality of remote teams will become only more prevalent as employees become more disconnected from each other and their company culture. This begin to have larger effects on the organization, projects would be completed poorly due to the lack of clear communication between coworkers.
+
+### Stakeholder Impact
+Remote employees would likely be unhappy at first but would eventually become more satisfied with their job as they will feel more connected to their company and coworkers. The organizations that are seeing the effects of the intervention would also be affected. Employees families would also be effected although evidence has shown that this would be a positive effect as hybrid employees have a much better work life balance when compared to remote workers.
+
+### Strategic Alignment
+The firms that this would effect likely value employee autonomy and boundaries but also want to ensure that by giving employees these priviledges they are not sacrificing anything in terms of the firm's performance. The proposed intervention maintains a fair level of employee independanc and th ability to continue to work at home, as many of them prefer, while also ensuring that they are still performing well and working and communicating within their teams effectively.
+
+## Evidence Questions to Explore
+### For the Problem (Step 2)
+- What evidence shows this problem exists?
+    - Studies have been conducted over multiple countries and tens of thousands of employees. These studies have found that employees that work soley from home have issues with communiation and perforance. Managers have stated, in these studies, that they have noticed a decline in performance directly related to remote work.
+    - Studies have found that conflict between employees arise when they are not working in person.
+- How widespread is this problem?
+    - The problem is seen in a plethera of companies across the world.
+    - This problem is seen to be in many industries, and almost every industry that encompasses work from home employees.
+- What are the root causes?
+    - The root of this issue is that employees who work from home express sypmtoms seen in individuals who are disconnected from others.
+    - The problems stem from employees not seeing each other face to face and interactiong in person.
+
+### For the Solution (Step 4)
+- What evidence supports our preferred solution?
+    - Studies have been conducted that support the theory that by moving employees to hybrid work schedules they can improve employee productiveness, form a stronger company culture, and reduce employee conflicts.
+    - Surveys of managers and employees show that working more in person creates a more productive work environment.
+- Has this solution worked in similar contexts?
+    - Yes, some companies have already implemented this strategy when they saw the downsides that remote work was bringing to their organization.
+- What are the potential risks and benefits?
+    - The benefits, as stated, are a reduction of employee conflicts, increased open communication between employees, increased productiveness of employees, increased performance of work teams, etc.
+    - Some of the risks are an initial loss of employees who are unwilling to work on hybrid schedules, the transition from remote to in person work office can cause some mental stress in employees, offices may sit empty for much of the week if they are only used for one or two days, etc.
+
+---
+INSTRUCTIONS: 
+1. Replace all bracketed placeholders with your specific content
+2. Use GitHub Copilot to help with writing and organization
+3. Reference Module 2 content for framework guidance
+4. Save frequently and commit to GitHub

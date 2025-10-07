@@ -1,0 +1,122 @@
+# Stakeholder Analysis
+# Identify and analyze all parties affected by your problem and solution
+
+## Internal Stakeholders
+
+### Senior Management
+- **Interest in Problem:** [How does this problem affect leadership?]
+    - Senior managers are mostly infavor of this intervention.
+    - They will likely feel like they have more control over their employees.
+- **Interest in Solution:** [What would leadership gain from solving this?]
+    - Leadership would see an increase in performance across the board in all departments that implement the intervention.
+- **Influence Level:** [High/Medium/Low influence on solution success]
+    - Senior management has a high influence on the success of this strategy.
+    - If management is too lax in implementing the intervention then it may prove to to do harm than help to the organization.
+    - Senior management also ultimately has the decision of whether to or not to implement this change.
+- **Support Level:** [Likely supporter/neutral/resistant]
+    - Senior management likely supports this idea.
+    - They would gain more control over employees
+
+### Middle Management
+- **Interest in Problem:** [How does this problem affect middle managers?]
+    - Middle managers may be seeing a dip in performance from their departments and are looking for a way to solve this without being to overbearing on their employees.
+- **Interest in Solution:** [What would middle management gain/lose?]
+    - Middle management would gain more control over their employees, better connections to their subordinates, the oportunity to create a stronger company culture, etc.
+    - Middle management would lose the ability to run their departments through a central hub easily, as they could online, when working in person.
+- **Influence Level:** [High/Medium/Low influence on implementation]
+    - Middle managers have a medium level of influence on the implementation of this intervention.
+    - They are responsible for ensuring that their employees are able to make the shift to hybrid schedules effectively, as well as, ensuring that in person time is being used effectively and as intended.
+- **Support Level:** [Likely supporter/neutral/resistant]
+    - They are likely supporters of this intervention.
+    - They would be able to connect with their employees much better, they would be able to pick, choose, and manage teams much easier when they know their employees and can see the conflicts/friendships being made between them.
+
+### Employees/Staff
+- **Interest in Problem:** [How does this problem affect front-line workers?]
+    - The problem ultimately is rooted in the employee.
+    - Work from home employees are shown to be worse at communicating, staying productive, dealing wiht coworkers, taking part in their company culture, etc.
+- **Interest in Solution:** [What would employees gain/lose from solution?]
+    - Employees would gain better connections to their coworkers, increased motivation to perform well for their teams and managers, a percieved increase in feeling a part of the company culture, friendships, etc.
+    - Remote employees would lose the ability to to not have to commute to an office or building, the ability to always work from home, the ability to sleep in as much, the ability to have access to all that their homes provides (food, family, environment), the ability to not have to interact with their coworkers as much, etc.
+- **Influence Level:** [High/Medium/Low influence on solution success]
+    - Employees have the highest level of influence on the success of the implementation of hybrid schedules.
+    - They are the ones being directly effected.
+    - If they are unwilling to work a hybrid schedule than the intervention cannot be implemented.
+        - They may quit or have to be let go.
+- **Support Level:** [Likely supporter/neutral/resistant]
+    - Some employees may be in favor of working some days in person, however, most will likely be upset and very resistent to the idea of changing their routine and work schedule.
+    - They are aware of the difficulties the change would initially pose for them, they are likely not fans of said difficulties.
+
+### Other Internal Groups
+
+- **Department/Group:** Office/building staff
+- **Interest in Problem:** These employees may need to be added to the company or their responsibilities may need to be increased to accomodate more employees coming in to work.
+- **Interest in Solution:** They may have to work longer hours, cover more space, serve more employees, get paid for more work etc. An overall increase in job duties.
+- **Influence Level:** These workers have low influence on implementing hybrdu schedules. The cost of their work will be considered but that is about it.
+- **Support Level:** They may be split in their support for this intervention. Because on hand, the amount of work they will have to do may increase, but at the same time, they may also get paid more for more hours or more work.
+
+## External Stakeholders
+
+### Customers/Clients
+- **Interest in Problem:** Customers may be seeing a drop in quality due to many employees moving to remote work only. Customers may be aware of competitors who are NOT working remotely being better in service, quality of product, marketing, customer service, etc.
+- **Interest in Solution:** Customers will only see a gain from this solution. The companies they shop from or use will ultimately produce a better experience for them.
+- **Influence Level:** Customers have a medium level of influence. As the solution is implemented they may give feedback that could allow us to see if customers are seeing the positive effects of it.
+- **Support Level:** Customers are in support of this solution as they percieve companies as producing higher quality products and/or services because of it.
+
+### Suppliers/Partners
+- **Interest in Problem:** Business partners may be seeing a lack of clear communication when trying to work with remote employees of a company.
+- **Interest in Solution:** Partners would see an improvement in communication with organizations, as well as, perceiving these organzations as being more on the same page and a unified team.
+- **Influence Level:** Business partners have a low level of influence on this implementation. This sollution, for the most part, only effects the employees within the companies and the things they directly deal with.
+- **Support Level:** Business partners feel neutral towards implementing this solution. They just want to be able to work with profitable companies in the easiest way possible, the means of that goal likely mean nothing to them.
+
+### Regulatory Bodies
+- **Interest in Problem:** While implementing this solution, employee rights and contractual obligation must be maintained.
+- **Interest in Solution:** Forcing employees to work in hybrid schedules may violate contracts those employees have to only work remotely.
+- **Influence Level:** This has a high influence level. Companies may be extremely hesitant to put themselves in a situation where a lawsuit from an employee may be inevitable.
+- **Support Level:** The letter of the law is always against violating fair contracts that employees have with employers.
+
+### Community/Society
+- **Interest in Problem:** When employees work from home they are less connected to their work communities and likely more connected to their families, if they have one.
+- **Interest in Solution:** The families and those who live with employees may have mixed feelings on employees returning to work some days.
+- **Influence Level:** The communities and economies that employees would be more apart of when required to commute to a location every week have little to no influence on this solution's implementation. The families of employees could have more of a say but still not much. Firms do not want to create a situation where their employees families hold any sort of resentment towards them.
+- **Support Level:** The communities around the office are definitely in favor of this implementation. Working in person has be shown to have significant boost of the economies surrounding the office. Familes may be for or against the solution, some may want the employees out of the house while others may like them to not have an obligation to go into an office.
+
+## Stakeholder Engagement Strategy
+
+### High Influence, High Interest (Manage Closely)
+    - Senior Management: They need to have open communication with us so that they understand what we are implementing and why. They also should be notified when positive changes are seen due to the solution.
+    - Employees: Their concerns should be heard and we should be doing everything we can to ensure that their transition into their new hybrid schedules goes smoothly.
+    - Court System/Lawyers/Labor Unions: We need to ensure that we are complying with all laws and legal obligations that employers may have to employees.
+### High Influence, Low Interest (Keep Satisfied)
+    - Middle Management: They need to be aided in the implementation of the new schedules and guided on how best to deal with new in person employees, in order to keep the midle managers feeling like they are being heard and not thrown into the fires of a new change.
+### Low Influence, High Interest (Keep Informed)
+    - Families: We need to give them information as to why we are introducing hybrid work and what it is meant to do for the company. We may also want to include updates as to improvements made because of the intervention.
+    - Business Partners: We should be clear to them about changes being made to the company so that they are not surprised with any changes in our business dealings with them.
+    - Office building staff: They should be made aware of any changes to their pay, work load, or hours.
+### Low Influence, Low Interest (Monitor)
+    - Local Communities: They should be monitored but no actions needs to be taken to ensure that they are pleased with business dealings.
+
+## Key Stakeholder Insights for Evidence Collection
+
+### Who to Interview/Survey
+We need to gather research on the thoughts and feeling towards the switch to hybrid work schedules. Specifically we need to survey remote employees, their managers, and hybrid employees and their managers.
+
+### What Questions to Ask
+    - Do you feel that you work well with your team?
+    - Do you have conflicts with your teams?
+    - Do you feel connected to your coworkers?
+    - Do you feel you can communicate well and clearly to your coworkers?
+    - Do you associate with the company culture?
+    - Do you desire to work in person
+These questions would be adjusted for managers but would have the same content.
+
+### How to Engage
+High value stakeholders would be communicated with through meetings and phone calls.
+Medium value stakeholders would be communicated with through things like phone calls and emails.
+Low value stake holders would be given email updates.
+
+---
+INSTRUCTIONS:
+1. Be specific about each stakeholder group's interests and influence
+2. Consider both obvious and hidden stakeholders
+3. Think about implementation challenges from stakeholder perspectives
+4. This analysis will guide your stakeholder evidence collection

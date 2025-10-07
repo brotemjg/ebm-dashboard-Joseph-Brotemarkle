@@ -1,0 +1,62 @@
+# Solution Constraints Template
+
+Use this file to record constraints that limit solution design and implementation for your project.
+
+## Project context
+- Project Topic: [e.g., Hybrid work]
+- Organization/Unit: [e.g., AcmeCo - Customer Ops]
+- Timeframe: [e.g., Q4 2025 pilot window]
+
+## Budget constraints
+- Available budget (one-time): [amount]
+- Available budget (recurring/monthly): [amount]
+- Procurement lead time: [weeks]
+- Restrictions (e.g., no external consultants): [notes]
+
+## Timeline constraints
+- Earliest start date: [date]
+- Required completion date: [date]
+- Key milestone dates: [milestone 1 - date; milestone 2 - date]
+
+## Technical constraints
+- Systems available (LMS, Slack, Teams, Jira, bespoke tools): [list]
+- Integration limitations (API access, SSO, data export): [notes]
+- Data retention and storage policies: [notes]
+
+## Legal and compliance constraints
+- Data privacy requirements (GDPR, CCPA, HIPAA if applicable): [notes]
+- HR policy constraints (monitoring, off-hours contact): [notes]
+- Contractual obligations with third parties: [notes]
+
+## Human resources / capacity
+- Available staff hours for pilot (FTE-equivalent): [estimate]
+- Manager involvement required: [hours/week]
+- Training capacity (hours, facilitators): [notes]
+
+## Ethical & employee acceptance constraints
+- Acceptable monitoring level (e.g., no keystroke monitoring): [policy]
+- Consent requirements for recordings/surveys: [notes]
+- Psychological safety considerations: [notes]
+
+## Operational constraints
+- Time zone coverage: [notes]
+- Coverage windows (e.g., core hours): [notes]
+- On-call or critical role constraints: [notes]
+
+## Measurement and evaluation constraints
+- Data access limits for outcomes (e.g., can't access individual-level productivity logs): [notes]
+- Minimum sample size needed for pilot: [notes]
+- Frequency of measurement allowed (weekly, monthly): [notes]
+
+## Risk and mitigation considerations
+- Key risks related to constraints and proposed mitigations:
+  1. [Risk] — [Mitigation]
+  2. [Risk] — [Mitigation]
+
+## Approval and escalation
+- Decision owners: [names / roles]
+- Approval thresholds (budget / timeline): [notes]
+- Escalation path: [contacts and steps]
+
+---
+INSTRUCTIONS: Fill each section with specific details to make solution design choices traceable and defensible.
