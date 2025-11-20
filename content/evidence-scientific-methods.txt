@@ -1,0 +1,113 @@
+# Scientific search & methods (CEBMa-aligned)
+
+Purpose: Provide a concise, reproducible search strategy and study selection workflow for the project topic: Hybrid work.
+
+Scope & constraints
+- Topic: Hybrid work (employee engagement, performance, non-invasive interventions).
+- Access: No institutional databases; prioritize open-access sources (Google Scholar, PubMed OA, SSRN, arXiv, institutional repositories, Google, direct publisher OA pages).
+- Designs of interest: RCTs, quasi-experimental (difference-in-differences, matched controls), cohort studies, cross-sectional surveys (for prevalence & correlates), and qualitative process/implementation studies.
+
+Search principles (CEBMa-influenced)
+- Use title/abstract field qualifiers when available (e.g., TI/AB, title:, intitle:), but adapt for Google Scholar (which lacks field-level boolean syntax) by placing strong keywords in quotes and combining with AND/OR.
+- Build a small set of high-precision queries first, then iteratively broaden with synonyms and related constructs.
+- Prioritize sensitivity for the evidence-for-effect question (interventions) and precision for baseline/problem prevalence questions.
+- Record all searches verbatim and save results lists (export or copy) to a reproducible search log (see PRISMA-style logging below).
+
+TI()/AB() and adaptations
+- When a database supports TI()/AB(): use it for focused searches. Example (database with TI/AB):
+  (TI(hybrid OR "hybrid work" OR "remote work" OR "work from home") OR AB(hybrid OR "hybrid work" OR "remote work" OR "work from home"))
+  AND (TI(engagement OR productivity OR performance OR "employee engagement") OR AB(engagement OR productivity OR performance OR "employee engagement"))
+  AND (TI(intervention OR trial OR program OR coaching OR "team check-in" OR microlearning) OR AB(intervention OR trial OR program OR coaching OR "team check-in" OR microlearning))
+
+- Google Scholar adaptation (no TI/AB):
+  Use quoted phrases and combine with AND/OR. Example high-precision Google Scholar string:
+  "hybrid work" OR "remote work" OR "work from home" AND "employee engagement" OR productivity OR performance AND (intervention OR trial OR program OR coaching OR "team check-in" OR microlearning)
+
+  Tips for Google Scholar:
+  - Use quotes for multi-word phrases: "hybrid work" "employee engagement".
+  - Use the site: operator to limit to specific domains (e.g., site:edu, site:gov) when needed.
+  - Sort by relevance, then by date when looking for recent evidence.
+  - Export citations using the "Cite" button (BibTeX/EndNote) where available; copy direct links for the search log.
+
+Example search strings (open-access focused)
+- Google Scholar (high-precision):
+  "hybrid work" "employee engagement" intervention OR trial OR program OR coaching
+
+- PubMed (adapted; use title/abstract fields):
+  ("hybrid work"[Title/Abstract] OR "remote work"[Title/Abstract] OR "work from home"[Title/Abstract]) AND ("employee engagement"[Title/Abstract] OR productivity[Title/Abstract] OR performance[Title/Abstract]) AND (intervention[Title/Abstract] OR trial[Title/Abstract] OR coaching[Title/Abstract] OR microlearning[Title/Abstract])
+
+- SSRN / institutional repositories (use site search + quotes):
+  "hybrid work" "employee engagement" intervention site:ssrn.com OR site:edu
+
+Search execution checklist
+1. Draft 3–5 high-precision queries for each major question (problem prevalence, effectiveness of interventions, implementation/process evidence).
+2. Run queries in Google Scholar and at least one OA index (PubMed OA, SSRN, arXiv if applicable).
+3. Export or save the first 200 results for each query (Google Scholar limits scraping; consider paginating and saving links manually).
+4. Record the exact query, date run, database, and number of hits in the search log.
+5. De-duplicate results across platforms using title + author heuristics.
+
+Screening & selection
+- Title/abstract screening: use the inclusion/exclusion criteria below. Keep reasons for exclusion in the log (e.g., wrong population, observational only, non-empirical).
+- Full-text review: extract key design features, sample size, context, outcomes measured, effect estimates, and implementation notes.
+
+Inclusion criteria (adapt to question)
+- Population: employees working in hybrid arrangements OR studies explicitly reporting mixed remote/onsite samples with subgroup analyses or contextual detail.
+- Intervention: structured programs targeting engagement or performance (e.g., team check-ins, asynchronous reporting systems, microlearning, manager coaching). Include comparative or pre-post designs.
+- Outcomes: employee engagement (validated scales or pulse scores), productivity/performance metrics, attendance/absenteeism, task completion rates, or validated behavioral proxies.
+- Study designs: RCTs, controlled quasi-experiments, cohort studies, cross-sectional (for prevalence/correlates), qualitative studies with implementation focus.
+- Language: English (unless you can translate reliably).
+- Date range: no restriction initially; prioritize recent 10 years during screening.
+
+Exclusion criteria
+- Purely opinion pieces, commentary, or editorials without empirical data.
+- Studies on surveillance/time-tracking technology as the primary intervention (unless relevant as a comparison).
+- Populations outside employment contexts (e.g., student remote learning) unless directly transferable with clear justification.
+
+Data extraction template (fields to collect for each included study)
+- Citation (authors, year, title, journal/source)
+- URL / DOI
+- Study design (RCT, quasi-experimental, cohort, cross-sectional, qualitative)
+- Population and sample size; country and sector; hybrid work definition used
+- Intervention details (components, duration, intensity)
+- Comparison condition
+- Outcomes measured (instruments, unit of measurement)
+- Effect estimates and precision (means, SDs, odds ratios, confidence intervals) where available
+- Risk of bias / appraisal flags (see appraisal checklist file)
+- Implementation notes (fidelity, acceptability, barriers)
+- Notes / remarks (applicability to AcmeCo context)
+
+Appraisal & synthesis plan (brief)
+- Use the CEBMa-style, design-specific checklists in `content/evidence-scientific-appraisal.txt` for internal validity flags.
+- For effectiveness: prioritize RCTs and high-quality quasi-experiments; synthesize narratively and only meta-analyze when estimates are compatible and heterogeneity is low.
+- For prevalence/correlates: report ranges and typical measures; avoid pooling across very different contexts.
+- For qualitative evidence: use thematic synthesis to extract implementation facilitators and barriers.
+
+PRISMA-style search log (minimum fields)
+- Search ID
+- Date
+- Database / platform
+- Exact query string
+- Hits returned
+- Hits screened (title/abstract)
+- Full texts assessed
+- Included
+- Excluded (with top reasons)
+- Link to saved results or exported file
+
+Reproducibility & transparency notes
+- Save raw search lists (CSV or text) in a `data/search-logs/` folder and reference them in the PRISMA log.
+- Keep a short README in `data/search-logs/README.txt` explaining how results were saved and de-duplication rules.
+
+Practical tips for no-institution-access searches
+- Focus on Google Scholar and publisher OA pages; use site:edu and site:gov to find white papers and government reports.
+- Search for preprints and working papers (SSRN, ResearchGate, institutional repositories).
+- Check references and cited-by in Google Scholar for backward/forward citation chasing.
+- Use browser PDF viewers and save PDFs with a consistent filename convention: author_year_journal_title.pdf.
+
+Next steps you can ask me to run
+- Generate 4–6 polished Google Scholar query strings tuned to the project's PICOC and ready-to-copy.
+- Create a `data/search-logs/README.txt` and a PRISMA CSV template for logging searches and screening counts.
+- Draft a short protocol snippet (one-page) summarizing the search strategy for Milestone 2.
+
+---
+INSTRUCTIONS: Save edits and commit often. Use the appraisal checklist file for risk-of-bias decisions.
