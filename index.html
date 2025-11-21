@@ -111,6 +111,9 @@
             display: none;
             padding: 40px;
             animation: fadeIn 0.3s ease-in;
+            max-width: 100%;
+            overflow-x: hidden;
+            word-wrap: break-word;
         }
 
         .tab-panel.active {
@@ -160,6 +163,11 @@
             font-size: 0.9em;
             cursor: pointer;
             transition: all 0.3s ease;
+            max-width: 100%;
+            overflow-x: auto;
+            word-wrap: break-word;
+            white-space: pre-wrap;
+            line-height: 1.6;
         }
 
         .content-file-preview:hover {
@@ -203,6 +211,8 @@
             border-left: 5px solid #ddd;
             background: #fafafa;
             border-radius: 10px;
+            max-width: 100%;
+            overflow-x: hidden;
         }
 
         .evidence-section h3 {
@@ -211,6 +221,8 @@
             padding: 10px 20px;
             border-radius: 25px;
             display: inline-block;
+            word-wrap: break-word;
+            max-width: 100%;
         }
 
         .evidence-section .content-file-preview {
@@ -336,6 +348,66 @@
             content: "☐ ";
             color: #3498db;
             font-weight: bold;
+        }
+
+        /* === RESPONSIVE & TEXT IMPROVEMENTS === */
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 10px;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .tab-button {
+                padding: 15px 10px;
+                font-size: 0.9em;
+            }
+
+            .tab-panel {
+                padding: 20px;
+            }
+
+            .student-info {
+                grid-template-columns: 1fr;
+            }
+
+            .progress-indicator {
+                flex-direction: column;
+            }
+
+            .progress-step {
+                margin: 5px 0;
+            }
+        }
+
+        /* Better text handling */
+        h1, h2, h3, h4, h5, h6 {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
+        }
+
+        p, li, pre {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            overflow-x: auto;
+        }
+
+        /* Ensure no element exceeds container width */
+        * {
+            max-width: 100%;
+        }
+
+        .container * {
+            box-sizing: border-box;
         }
     </style>
 </head>
