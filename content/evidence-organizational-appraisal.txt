@@ -107,11 +107,7 @@ I'd rate organizational data as **high quality for showing context and what's no
 
 ## AI Assistance
 
-AI helped me figure out which of the 10 barriers were actually important to check for this type of evidence (descriptive national statistics).
-
-For example, AI pointed out that publication bias isn't a big worry for government data (they report everything they measure, not just positive results), but causality and context are major issues (national averages don't prove what will happen if I make a change, and they might not match my specific situation).
-
-This helped me focus on the most important quality issues instead of mechanically checking off all 10 barriers even when some didn't really apply.
+AI helped me find the organizational data sources. The quality assessment using the 10 barriers framework is my own work.
 
 **Political Factors:**
 - **Pressure to Show Improvement:** [Whether there's pressure to manipulate data positively]

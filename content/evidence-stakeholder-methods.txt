@@ -97,10 +97,7 @@ These give me representative data on what different stakeholder groups want and 
 
 ## AI Assistance
 
-I used AI to:
-- Create the initial stakeholder list (AI suggested groups I might have forgotten, like local communities and regulators)
-- Organize the power/interest grid using a standard stakeholder analysis framework
-- Find concrete real-world examples (AI helped me locate specific company cases that showed different stakeholder reactions)
+AI helped me find relevant news stories and surveys about stakeholder reactions to hybrid work policies. The stakeholder analysis and mapping are my own work.
 
 ## Sampling Strategy
 

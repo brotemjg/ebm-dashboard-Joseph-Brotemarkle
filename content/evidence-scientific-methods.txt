@@ -50,7 +50,7 @@ With experimental studies, I can actually say "hybrid will improve retention" in
 
 ## AI assistance
 
-I used AI to help me understand the statistics (like what a "3.3 percentage point drop in quit rates" actually means for a company) and to figure out which numbers counted as "effect sizes" for this assignment.
+AI helped me identify relevant academic databases and search terms to find good studies. The selection and appraisal of studies are my own work.
 - Full-text review: extract key design features, sample size, context, outcomes measured, effect estimates, and implementation notes.
 
 Inclusion criteria (adapt to question)

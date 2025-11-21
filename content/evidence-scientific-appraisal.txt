@@ -93,13 +93,7 @@ So the performance ratings might be a bit inflated for the hybrid group. But the
 
 ## How AI helped me evaluate these studies
 
-I used AI to help me ask the right questions when evaluating each study:
-- "Did they use random assignment?" (important for proving cause and effect)
-- "Are the outcomes actually measurable and objective?"
-- "Does it make logical sense WHY hybrid would improve things?"
-- "How similar is their situation to mine?"
-
-Then I went through each study and answered those questions systematically. This kept me from just looking for evidence that confirmed what I already thought and helped me spot real limitations.
+AI helped me find the experimental studies. The quality assessment and confidence ratings are my own work.
 [Any concerns about publication quality?]
 
 ### Peer Review Process

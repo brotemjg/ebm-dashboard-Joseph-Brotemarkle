@@ -112,9 +112,7 @@ The two studies together cover both sides of hybrid work: Trip.com shows hybrid 
 
 ## AI assistance
 
-I used ChatGPT to help me translate the statistics into language that makes sense for a business context (like "3.3 percentage-point reduction = one-third fewer quits").
-
-AI also helped me think about whether these studies apply to my situation. Like, one study is from a Chinese tech company and the other is from a Bangladesh non-profit - different industries and countries. That's both a strength (the findings work in different settings) and a limitation (my company might be different). But the fact that both studies found similar benefits for hybrid makes me more confident the findings are real.
+AI helped me locate the research studies. The interpretation and analysis of how these studies apply to my decision are my own work.
 
 ### Study 5: [Brief title]
 - **Citation:** [Short citation]

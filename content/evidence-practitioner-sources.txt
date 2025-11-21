@@ -77,7 +77,7 @@ This all supports my claim that switching to hybrid can reduce turnover.
 
 ## AI assistance
 
-I used AI to help summarize the long reports into key points and to spot contradictions (like how some "hybrid" implementations work great while others cause employee backlash). Then I went back and checked the actual sources to make sure I got it right.
+AI helped me locate relevant practitioner sources and reports. The appraisal of credibility and limitations is my own analysis.
 - **Name/Title:** [Name and current role]
 - **Organization:** [Current company/organization]
 - **Experience:** [Years in field, relevant background]

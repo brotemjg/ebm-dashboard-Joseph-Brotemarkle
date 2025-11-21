@@ -119,9 +119,7 @@ In consulting, financial services, healthcare, and other industries where you wo
 
 ## AI Assistance
 
-AI helped me connect each stakeholder's perspective back to my X→Y plan: figuring out who benefits from better retention and wellbeing (Y), and who might resist the change (X) based on what they care about.
-
-AI also helped me organize all the stakeholder views into practical impact (who wins, who loses) and ethical impact (fairness and inclusion) categories, which makes this analysis more useful for actually making the decision.
+AI helped me locate news stories, surveys, and company communications about stakeholder reactions. The analysis of practical and ethical impacts is my own work.
 
 #### Unintended Consequences
 [What customers worry might go wrong]

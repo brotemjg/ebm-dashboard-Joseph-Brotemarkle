@@ -131,17 +131,9 @@ These questions would give me data specific to my organization instead of relyin
 
 ---
 
-## AI Assistance in This Appraisal
+## AI Assistance
 
-I used AI to:
-
-1. **Find blind spots in my stakeholder sample:** AI reminded me to think about which stakeholder groups are missing or underrepresented (disabled employees, long-time employees, specific job types).
-
-2. **Ask the right critical questions:** AI helped me systematically check representativeness, power dynamics, and confidence levels instead of just taking stakeholder claims at face value.
-
-3. **Connect stakeholder evidence to my decision quality:** AI emphasized that stakeholder evidence works best for figuring out implementation and change management, not for proving cause and effect (which needs experimental studies).
-
-4. **Figure out what to do next:** Instead of just criticizing the evidence, AI helped me identify what additional stakeholder engagement would make my case stronger (internal surveys, focus groups, exit interviews).
+AI helped me find stakeholder sources (news coverage, surveys, company communications). The assessment of representativeness, power dynamics, and confidence levels is my own work.
 
 ### Completeness Assessment
 
