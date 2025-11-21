@@ -1,53 +1,56 @@
-# Scientific search & methods (CEBMa-aligned)
+# Scientific Evidence: Acquisition Methods
 
-Purpose: Provide a concise, reproducible search strategy and study selection workflow for the project topic: Hybrid work.
+## Goal
 
-Scope & constraints
-- Topic: Hybrid work (employee engagement, performance, non-invasive interventions).
-- Access: No institutional databases; prioritize open-access sources (Google Scholar, PubMed OA, SSRN, arXiv, institutional repositories, Google, direct publisher OA pages).
-- Designs of interest: RCTs, quasi-experimental (difference-in-differences, matched controls), cohort studies, cross-sectional surveys (for prevalence & correlates), and qualitative process/implementation studies.
+Find at least 2 peer-reviewed research studies with real numbers (effect sizes) showing how hybrid vs other work arrangements affect retention/turnover and employee satisfaction.
 
-Search principles (CEBMa-influenced)
-- Use title/abstract field qualifiers when available (e.g., TI/AB, title:, intitle:), but adapt for Google Scholar (which lacks field-level boolean syntax) by placing strong keywords in quotes and combining with AND/OR.
-- Build a small set of high-precision queries first, then iteratively broaden with synonyms and related constructs.
-- Prioritize sensitivity for the evidence-for-effect question (interventions) and precision for baseline/problem prevalence questions.
-- Record all searches verbatim and save results lists (export or copy) to a reproducible search log (see PRISMA-style logging below).
+## Where I searched
 
-TI()/AB() and adaptations
-- When a database supports TI()/AB(): use it for focused searches. Example (database with TI/AB):
-  (TI(hybrid OR "hybrid work" OR "remote work" OR "work from home") OR AB(hybrid OR "hybrid work" OR "remote work" OR "work from home"))
-  AND (TI(engagement OR productivity OR performance OR "employee engagement") OR AB(engagement OR productivity OR performance OR "employee engagement"))
-  AND (TI(intervention OR trial OR program OR coaching OR "team check-in" OR microlearning) OR AB(intervention OR trial OR program OR coaching OR "team check-in" OR microlearning))
+### Google Scholar & publisher websites
 
-- Google Scholar adaptation (no TI/AB):
-  Use quoted phrases and combine with AND/OR. Example high-precision Google Scholar string:
-  "hybrid work" OR "remote work" OR "work from home" AND "employee engagement" OR productivity OR performance AND (intervention OR trial OR program OR coaching OR "team check-in" OR microlearning)
+I mainly used Google Scholar because it searches academic journals and a lot of the articles are free to access.
 
-  Tips for Google Scholar:
-  - Use quotes for multi-word phrases: "hybrid work" "employee engagement".
-  - Use the site: operator to limit to specific domains (e.g., site:edu, site:gov) when needed.
-  - Sort by relevance, then by date when looking for recent evidence.
-  - Export citations using the "Cite" button (BibTeX/EndNote) where available; copy direct links for the search log.
+### My search terms:
 
-Example search strings (open-access focused)
-- Google Scholar (high-precision):
-  "hybrid work" "employee engagement" intervention OR trial OR program OR coaching
+1. "hybrid working from home improves retention randomized trial"
+2. "Is hybrid work the best of both worlds field experiment"
+3. "remote vs hybrid job satisfaction turnover intention"
 
-- PubMed (adapted; use title/abstract fields):
-  ("hybrid work"[Title/Abstract] OR "remote work"[Title/Abstract] OR "work from home"[Title/Abstract]) AND ("employee engagement"[Title/Abstract] OR productivity[Title/Abstract] OR performance[Title/Abstract]) AND (intervention[Title/Abstract] OR trial[Title/Abstract] OR coaching[Title/Abstract] OR microlearning[Title/Abstract])
+I specifically looked for "randomized trial" and "field experiment" because those types of studies can actually prove cause and effect, not just show correlations. And I needed studies that measured things like retention, satisfaction, and turnover - the exact outcomes I care about.
 
-- SSRN / institutional repositories (use site search + quotes):
-  "hybrid work" "employee engagement" intervention site:ssrn.com OR site:edu
+## The two studies I picked
 
-Search execution checklist
-1. Draft 3–5 high-precision queries for each major question (problem prevalence, effectiveness of interventions, implementation/process evidence).
-2. Run queries in Google Scholar and at least one OA index (PubMed OA, SSRN, arXiv if applicable).
-3. Export or save the first 200 results for each query (Google Scholar limits scraping; consider paginating and saving links manually).
-4. Record the exact query, date run, database, and number of hits in the search log.
-5. De-duplicate results across platforms using title + author heuristics.
+### Study 1: Bloom et al., 2024 / 2022
 
-Screening & selection
-- Title/abstract screening: use the inclusion/exclusion criteria below. Keep reasons for exclusion in the log (e.g., wrong population, observational only, non-empirical).
+This was a randomized controlled trial at Trip.com (a Chinese company) comparing hybrid (2 days working from home) vs 5 days in the office.
+
+I picked this study because:
+- They used random assignment - meaning they randomly chose who got to work hybrid and who had to come in every day. This is the gold standard for proving cause and effect.
+- They measured actual quit rates, not just "do you plan to quit?" Real data.
+- It compares hybrid to fully in-office, which helps me understand what hybrid can do
+- It was published in Nature, which is one of the best scientific journals out there
+- They give clear numbers on how much quit rates dropped and how much satisfaction improved
+
+### Study 2: Choudhury et al., 2022/2025
+
+This was a field experiment at BRAC (a big non-profit in Bangladesh) testing different levels of work-from-home: low (mostly office), intermediate (hybrid), and high (mostly remote).
+
+I picked this study because:
+- They tested different WFH levels experimentally, so we can see what happens when you go from full remote to hybrid
+- It directly compares intermediate hybrid to high remote, which is exactly what I'm planning to do
+- They measured satisfaction, isolation, AND performance - covering all the outcomes I care about
+- The effect sizes are reported in standard deviation units, which I can use
+- It comes from Harvard Business School researchers, so it's credible
+
+## Why these studies matter
+
+These are basically the only experimental studies out there that test hybrid vs remote vs office and measure retention-related outcomes. Most hybrid work research is just surveys asking people how they feel, which can't prove that hybrid CAUSES better outcomes. 
+
+With experimental studies, I can actually say "hybrid will improve retention" instead of just "hybrid is associated with better retention."
+
+## AI assistance
+
+I used AI to help me understand the statistics (like what a "3.3 percentage point drop in quit rates" actually means for a company) and to figure out which numbers counted as "effect sizes" for this assignment.
 - Full-text review: extract key design features, sample size, context, outcomes measured, effect estimates, and implementation notes.
 
 Inclusion criteria (adapt to question)

@@ -1,53 +1,48 @@
 # Practitioner Evidence: Credibility & Relevance Assessment
-# Evaluate the trustworthiness and applicability of practitioner insights
 
-## Overall Credibility Assessment
-**Overall Rating:** [High/Medium/Low]
-**Confidence in Recommendations:** [High/Medium/Low]
+## How credible are these sources?
 
-## Individual Practitioner Credibility
+### McKinsey, Gallup, and Microsoft are pretty trustworthy
 
-### Expert 1: [Name/Role]
-#### Professional Credibility
-- **Years of Relevant Experience:** [Number and assessment]
-- **Industry Reputation:** [Known expert/Respected professional/New practitioner]
-- **Track Record:** [Documented successes/Mixed results/Limited evidence]
-- **Current Role Relevance:** [Highly relevant/Somewhat relevant/Limited relevance]
+These organizations use large samples and are transparent about their methods. They're not academic researchers, but they're high-quality practitioner sources that are generally reliable for understanding what's happening in the business world and how employees are feeling.
 
-#### Expertise Assessment
-- **Direct Problem Experience:** [Extensive/Moderate/Limited]
-- **Solution Implementation Experience:** [Extensive/Moderate/Limited]
-- **Range of Context Experience:** [Multiple organizations/Single context/Limited exposure]
-- **Recent vs. Historical Experience:** [Current/Recent/Dated]
+### The news coverage is credible but has some limits
 
-#### Bias Assessment
-- **Financial Interests:** [Potential conflicts of interest?]
-- **Organizational Bias:** [Tied to specific approach/company?]
-- **Personal Investment:** [Emotionally invested in certain solutions?]
-- **Transparency:** [Open about limitations/Overly confident/Defensive]
+The news articles from outlets like The Verge, The Guardian, and Business Insider are credible and well-sourced. But here's the thing - they tend to focus on the most dramatic stuff (protests, walkouts, angry internal letters) rather than showing the full picture of how employees react. The extreme reactions get covered, but we don't hear as much about the employees who just accepted the change and moved on.
 
 ---
 
-### Expert 2: [Name/Role]
-[Follow same structure as Expert 1]
+## Potential biases and limitations
+
+### These consulting and tech companies have skin in the game
+
+McKinsey and Microsoft both benefit from promoting hybrid work:
+- McKinsey sells consulting services to help companies transform their workplace strategies
+- Microsoft sells Teams, Office 365, and other tools that are marketed as hybrid work solutions
+
+So they might have a bias toward saying "hybrid is necessary and you can make it work (if you hire us or buy our products)." They're not necessarily wrong, but we should keep their business interests in mind.
+
+### News articles focus on drama, not normalcy
+
+News outlets cover protests and conflicts because that's what gets clicks. They might be making employee discontent look bigger than it really is. The truth is, walkouts and petitions make better headlines than "most employees adapted fine." So we're probably seeing an exaggerated view of how badly return-to-office policies can go.
+
+### None of this proves cause and effect
+
+These practitioner sources show correlations and tell stories, but they don't prove that hybrid CAUSES better retention or that remote work CAUSES isolation. They're based on surveys, interviews, and observations, which can only show associations, not definitive cause-and-effect relationships. That's what the scientific studies are for.
 
 ---
 
-### Expert 3: [Name/Role]
-[Follow same structure as Expert 1]
+## Overall judgment
 
-## Case Study Credibility
+**I'd rate this practitioner evidence as moderate quality.**
 
-### Case Study 1: [Organization Name]
-#### Source Credibility
-- **Information Source:** [Company publication/Academic case study/News report/Other]
-- **Source Reliability:** [Highly reliable/Moderately reliable/Limited reliability]
-- **Information Completeness:** [Comprehensive/Partial/Limited detail]
-- **Objectivity:** [Objective reporting/Some bias/Heavily biased]
+It's really useful for understanding how employees and leaders actually experience these changes and what implementation challenges I might face. But I can't rely on this alone to predict how big the impact will be. I need to combine this with the scientific studies and organizational data to make a strong case.
 
-#### Context Relevance
-- **Industry Similarity:** [Same industry/Related industry/Different industry]
-- **Organizational Size:** [Similar size/Somewhat similar/Very different]
+---
+
+## How AI helped with this assessment
+
+I used AI to help me think through potential biases (like these companies having financial interests) and to remind me not to take any single story as the whole truth. AI helped me systematically think about what might be missing or exaggerated in these practitioner accounts.
 - **Geographic Context:** [Same region/Similar region/Different region]
 - **Time Relevance:** [Recent/Somewhat recent/Dated]
 

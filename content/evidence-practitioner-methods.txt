@@ -1,53 +1,86 @@
 # Practitioner Evidence: Methods & Acquisition Strategy
-# Document your approach to gathering expert insights and professional experience
 
-## Practitioner Evidence Goals
-**Primary Goal:** [What practitioner insights do you need about your problem?]
-**Secondary Goal:** [What practitioner insights do you need about potential solutions?]
+## Goal
 
-## Target Practitioners
+I wanted to find out what practitioners (consultants, business leaders, and industry experts) think about:
 
-### Industry Experts
-**Target Profile:** [What type of professional experience is most relevant?]
-- Years of experience desired: [Range]
-- Industry/sector focus: [Specific industries]
-- Role/position types: [Management levels, functional areas]
-- Company size experience: [Startup, SME, large enterprise]
-- Geographic location: [Local, national, international]
+1. What problems come with fully remote work (like isolation, weak culture, and coordination issues)
+2. Whether switching to hybrid actually improves retention and employee experience without hurting performance
 
-### Specific Practitioners Identified
-1. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+## Where I looked
 
-2. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+### McKinsey pieces on hybrid work, return-to-office, and flexible work
+- mckinsey.com
+- Their articles and research reports on hybrid work models
+- Their analysis of return-to-office trends and policies
+- Their research on flexible work arrangements
 
-3. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+McKinsey is a major management consulting firm, so their reports focus on what companies are actually doing and what seems to work.
 
-## Acquisition Methods
+### Gallup work-trend and hybrid work reports
+- Gallup.com
+- Their work-trend surveys and reports
+- Their hybrid work engagement studies
+- Their employee wellbeing and thriving research
 
-### Expert Interviews
-#### Interview Planning
-- **Target Number:** [How many interviews planned?]
-- **Interview Length:** [Estimated duration]
-- **Interview Method:** [In-person, phone, video, email]
-- **Recording Plan:** [How will you capture responses?]
+Gallup runs large national surveys, so they have data on what thousands of workers are experiencing.
 
-#### Interview Protocol
-**Opening Questions:**
-- Can you tell me about your experience with [problem area]?
-- How long have you been working in this field/role?
+### Microsoft Work Trend Index & hybrid guides
+- Microsoft's global survey data and their own internal practices
+- Their Work Trend Index reports
+- Their hybrid work implementation guides
+- Their research that combines employee surveys with actual company practices
 
-**Problem-Focused Questions:**
-- Have you encountered [your specific problem] in your work?
-- What causes this type of problem in your experience?
-- How common is this problem in organizations you've worked with?
+Microsoft is interesting because they're both studying hybrid work and implementing it at their own company.
 
-**Solution-Focused Questions:**
+### News and company examples of return-to-office backlash
+- Coverage of Amazon, Apple, Google, Washington Post, federal workers
+- Business Insider articles on return-to-office policies
+- The Verge coverage of employee reactions
+- Analysis of employee protests and pushback
+
+These news articles show what happens when companies try to bring people back - sometimes it works, sometimes employees push back hard.
+
+## Search strategy
+
+### Keywords I used
+- "hybrid work retention McKinsey"
+- "Gallup hybrid engagement vs remote"
+- "employee reactions return to office mandate"
+- "Microsoft Work Trend Index hybrid"
+
+### How I filtered results
+- Only looked at post-2020 publications (since that's when hybrid work became mainstream)
+- Focused on knowledge workers and remote-capable roles (not jobs like retail or manufacturing that can't be done remotely)
+
+## Getting multiple perspectives
+
+### Management consultancies (McKinsey)
+These sources gave me insights on:
+- What trade-offs companies face when choosing between work models
+- How hybrid vs remote vs in-office affects productivity
+- Real estate and operational issues companies need to think about
+- Frameworks for making strategic decisions
+
+### Survey organizations (Gallup, Microsoft)
+These sources gave me:
+- Survey data from thousands of employees on engagement levels
+- Data on wellbeing and whether people are "thriving"
+- What employees prefer, broken down by demographics
+- Trends over time in work arrangements
+
+### Big-tech case examples (Apple, Amazon, Google, federal government)
+These sources showed me:
+- How employees actually reacted when companies changed their policies
+- Examples of employee protests, internal letters, and organized resistance
+- What leaders said to justify their decisions
+- What worked and what didn't in different implementations
+
+## AI assistance
+
+I used ChatGPT to:
+- Brainstorm search terms, then I went and manually checked the actual reports
+- Create an initial list of stakeholders and figure out which sources were credible (like McKinsey, Gallup, Microsoft) vs just opinion blogs
 - What approaches have you seen work for this type of problem?
 - What solutions have you tried or observed?
 - What would you recommend based on your experience?

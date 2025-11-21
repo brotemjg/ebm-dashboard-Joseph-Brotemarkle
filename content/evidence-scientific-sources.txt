@@ -1,103 +1,120 @@
 # Scientific Evidence: Research Findings
-# Document and summarize the research studies you found
 
-## Evidence Summary Overview
-**Total Studies Reviewed:** [Number]
-**Date Range of Studies:** [Earliest to most recent]
-**Geographic Scope:** [Countries/regions represented]
-**Quality Level:** [Overall assessment: High/Medium/Low]
+## Study 1 – Bloom et al. (Trip.com hybrid RCT)
 
-## Study 1: [Title or Brief Description]
 ### Citation
-[Full academic citation in APA format]
 
-### Study Overview
-- **Research Design:** [Type of study - RCT, cohort, cross-sectional, etc.]
-- **Sample Size:** [Number of participants/organizations]
-- **Population:** [Who was studied?]
-- **Setting:** [Where was the study conducted?]
-- **Duration:** [How long was the study period?]
+Bloom, N., Han, R., Kalyani, A., et al. (2024). Hybrid working from home improves retention without damaging performance. Nature.
 
-### Key Findings
-#### Related to Your Problem
-[What did this study find about your type of problem?]
+### What they did
 
-#### Related to Your Solution
-[What did this study find about your type of solution?]
+They took 1,612 engineers and staff at Trip.com (a Chinese travel company) and randomly split them into two groups:
+- **Hybrid group:** Work from home Wednesdays and Fridays (2 days/week)
+- **Control group:** Come to the office all 5 days
 
-#### Important Statistics/Results
-[Specific numbers, effect sizes, confidence intervals]
+This was a real experiment where they randomly assigned people, so they could prove cause and effect, not just correlation.
 
-### Relevance Assessment
-- **Problem Relevance:** [High/Medium/Low - why?]
-- **Solution Relevance:** [High/Medium/Low - why?]
-- **Context Similarity:** [How similar to your situation?]
+### The key numbers
+
+#### Quit rates:
+
+In the control group (all office), 8.6% of people quit. In the hybrid group, only 5.3% quit. That's a 38% reduction in turnover - hybrid cut quits by about one-third.
+
+To put that in perspective: if I have 1,000 employees with an 8.6% annual quit rate, switching to hybrid would save me about 33 people from quitting each year. That's huge when you think about the cost of replacing and training 33 people.
+
+#### Job satisfaction & work-life balance:
+
+Hybrid workers scored higher on job satisfaction, whether they'd recommend the company, life satisfaction, and work-life balance. The increase was about 0.2-0.3 standard deviations.
+
+What does that mean practically? It's a small-to-moderate but real improvement. Think of it like this: if satisfaction scores are normally distributed from 1-10, hybrid workers might score about 0.5-0.8 points higher on average. Not dramatic, but definitely noticeable.
+
+#### Performance:
+
+Here's the best part - there was NO difference in performance ratings or promotions over the next two years. Managers rated hybrid and full-office employees the same, and they got promoted at the same rates.
+
+This is critical because it shows hybrid gives you retention and satisfaction benefits WITHOUT any performance cost. You're not trading productivity for happiness - you get both.
+
+### What this means for my plan
+
+Even though this study compared hybrid to fully in-office (not hybrid to fully remote like I'm planning), the main takeaway still applies:
+
+Hybrid work significantly reduced quits and improved satisfaction without hurting performance.
+
+For my situation (going from fully online to hybrid), this tells me I can bring people into the office part-time without tanking productivity, and I might actually see retention and satisfaction improve. The study even found that non-managers and people with longer commutes benefited more, which is good to know for implementation.
 
 ---
 
-## Study 2: [Title or Brief Description]
+## Study 2 – Choudhury et al. (Hybrid "best of both worlds")
+
 ### Citation
-[Full academic citation in APA format]
 
-### Study Overview
-- **Research Design:** [Type of study]
-- **Sample Size:** [Number of participants/organizations]
-- **Population:** [Who was studied?]
-- **Setting:** [Where was the study conducted?]
-- **Duration:** [How long was the study period?]
+Choudhury, P., Khanna, T., Makridis, C., & Schirmann, K. (2022/2025). Is hybrid work the best of both worlds? Evidence from a field experiment. Working paper / forthcoming article.
 
-### Key Findings
-#### Related to Your Problem
-[What did this study find about your type of problem?]
+### What they did
 
-#### Related to Your Solution
-[What did this study find about your type of solution?]
+They ran a field experiment with employees at BRAC, a big non-profit organization. They randomly assigned employees to three different levels of work-from-home:
+- **Low-WFH:** Mostly in the office
+- **Intermediate-WFH:** Hybrid (mix of office and home)
+- **High-WFH:** Mostly remote
 
-#### Important Statistics/Results
-[Specific numbers, effect sizes, confidence intervals]
+This setup is great because they can directly compare hybrid to both extremes - mostly office AND mostly remote.
 
-### Relevance Assessment
-- **Problem Relevance:** [High/Medium/Low - why?]
-- **Solution Relevance:** [High/Medium/Low - why?]
-- **Context Similarity:** [How similar to your situation?]
+### The key numbers
+
+#### Performance:
+
+Managers rated the intermediate-WFH (hybrid) employees' output 0.669 standard deviations higher than the high-WFH (mostly remote) employees.
+
+That's a big deal. In plain English, moving people from mostly remote to hybrid improved their performance by about two-thirds of a standard deviation. In organizational research, that's considered a substantial improvement - not just a tiny difference.
+
+#### Satisfaction, work-life balance, and isolation:
+
+The hybrid workers reported:
+- More satisfaction with their work arrangement
+- Better work-life balance
+- Less isolation
+
+Compared to BOTH the mostly-office group AND the mostly-remote group. The improvements were about 0.2-0.4 standard deviations.
+
+So hybrid really did give them the best of both worlds - they kept the flexibility and work-life balance benefits of remote work, but avoided feeling isolated. And they didn't have to deal with commuting every single day like the mostly-office group.
+
+### What this means for my plan
+
+This study is even more relevant to my situation because it compares mostly remote to hybrid. Moving from full remote to intermediate hybrid improved BOTH performance (by almost 0.7 SD) and wellbeing while cutting down on isolation.
+
+This tells me that bringing fully online staff into the office part-time isn't just going to maintain the status quo - it might actually improve things, not just avoid problems.
+
+The reason seems to be that hybrid gives people enough in-person time to collaborate well and feel connected to their teammates, while still giving them enough flexibility to maintain work-life balance.
 
 ---
 
-## Study 3: [Title or Brief Description]
-### Citation
-[Full academic citation in APA format]
+## How these two studies support my plan
 
-### Study Overview
-- **Research Design:** [Type of study]
-- **Sample Size:** [Number of participants/organizations]
-- **Population:** [Who was studied?]
-- **Setting:** [Where was the study conducted?]
-- **Duration:** [How long was the study period?]
+Looking at both studies together:
 
-### Key Findings
-#### Related to Your Problem
-[What did this study find about your type of problem?]
+**Study 1 (Trip.com) - Hybrid vs full office:**
+- Hybrid cut quits by 33-38%
+- Satisfaction improved (0.2-0.3 SD increase)
+- No performance loss
 
-#### Related to Your Solution
-[What did this study find about your type of solution?]
+**Study 2 (BRAC) - Hybrid vs full remote:**
+- Hybrid improved performance by 0.7 SD
+- Satisfaction was better compared to full remote
+- Less isolation than full remote
 
-#### Important Statistics/Results
-[Specific numbers, effect sizes, confidence intervals]
+**Bottom line:** Moving away from the extremes (all office OR all remote) to a structured hybrid model seems to be the sweet spot. You get high retention, good satisfaction, and productivity that's at least the same - sometimes even better.
 
-### Relevance Assessment
-- **Problem Relevance:** [High/Medium/Low - why?]
-- **Solution Relevance:** [High/Medium/Low - why?]
-- **Context Similarity:** [How similar to your situation?]
+That's exactly what I need to show that my plan (shift to hybrid) will lead to lower turnover and better wellbeing.
+
+The two studies together cover both sides of hybrid work: Trip.com shows hybrid beats all-office, and BRAC shows hybrid beats all-remote. Since I'm planning to go from fully online to hybrid, the BRAC study is especially relevant - it directly shows that adding some in-person time to remote work improves both performance and wellbeing.
 
 ---
 
-## Additional Studies Summary
-[For studies 4+, you can use shorter summaries]
+## AI assistance
 
-### Study 4: [Brief title]
-- **Citation:** [Short citation]
-- **Key Finding:** [Most important result]
-- **Relevance:** [Why this matters to your problem/solution]
+I used ChatGPT to help me translate the statistics into language that makes sense for a business context (like "3.3 percentage-point reduction = one-third fewer quits").
+
+AI also helped me think about whether these studies apply to my situation. Like, one study is from a Chinese tech company and the other is from a Bangladesh non-profit - different industries and countries. That's both a strength (the findings work in different settings) and a limitation (my company might be different). But the fact that both studies found similar benefits for hybrid makes me more confident the findings are real.
 
 ### Study 5: [Brief title]
 - **Citation:** [Short citation]

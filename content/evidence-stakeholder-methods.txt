@@ -1,99 +1,106 @@
-# Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
+# Stakeholder Evidence: Methods & How I Engaged Stakeholders
 
-## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+## Goal
 
-## Target Stakeholder Groups
+Figure out who's affected by moving from fully online to hybrid, and gather information about their opinions, concerns, and interests.
 
-### Internal Stakeholders
-#### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+## Who the Stakeholders Are
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
+### Internal / People inside the organization
 
-#### Other Internal Groups
-[Additional internal stakeholder categories]
+**Remote-capable employees (the actual workers):**
+These are the people directly affected by the policy change. They work fully remote now and would have to come to the office 2-3 days/week under hybrid. They care a lot because this affects their daily life (commute time, childcare arrangements, work-life balance).
 
-### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
+**People managers:**
+Middle managers who supervise remote teams. They're affected because they have to actually implement the policy, coordinate team schedules, and handle employee complaints. They probably also have their own preferences about working remotely vs. in office.
 
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
+**Senior leadership / executives:**
+The C-suite and VP-level people who make big strategic decisions. They have the power to approve or reject the hybrid policy. They care about company culture, productivity numbers, real estate costs, and staying competitive.
 
-## Data Collection Methods
+**HR & talent acquisition:**
+The people responsible for hiring, keeping employees happy, making sure policies are followed, and handling employee relations issues. They have to actually run the policy, handle exceptions, and track whether turnover gets better or worse. They have moderate power but high interest.
 
-### Survey Design
-#### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
+**IT & facilities:**
+IT has to support the technology (video calls, cybersecurity, laptops). Facilities has to manage office space, desk booking systems, and keeping the office safe and functional. They have moderate power and moderate interest.
 
-#### Key Survey Questions
-**Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
-- How significantly does this problem impact your work/experience?
-- What do you see as the main causes of this problem?
+### External / People outside the organization
 
-**Solution Feedback Questions:**
-- How would you rate the feasibility of [proposed solution]?
-- What concerns do you have about implementing this solution?
-- What would make this solution more effective?
+**Customers/clients:**
+Might care if work arrangements affect how good the service is, how quickly we respond, or how well we maintain relationships. This is especially important if we have client-facing roles where meeting in person matters.
 
-**Priority and Support Questions:**
-- How important is solving this problem compared to other priorities?
-- What level of support would you provide for this initiative?
-- What resources should be allocated to address this problem?
+**Local communities (downtown businesses, public transit, etc.):**
+Get more business when employees come back to the office. Downtown restaurants, shops, and public transit lost a lot of business during remote work. They don't have much power but they do have some interest.
 
-### Interview Protocol
-#### Interview Structure
-- **Duration:** [Target length for each interview]
-- **Format:** [In-person, phone, video conference]
-- **Recording:** [Will interviews be recorded? How?]
-- **Note-taking:** [How will you capture responses]
+**Regulators / unions (if applicable):**
+Labor regulators might care about safety, accessibility, and making sure the policy doesn't discriminate. Unions (if there are any) might want to negotiate over work arrangements. Their power depends on the situation.
 
-#### Interview Questions
-**Opening Questions:**
-- Tell me about your role and how this problem affects you
-- How long have you been aware of this issue?
+**Investors / board:**
+Care about financial performance, how much turnover costs, and strategic risks. They have ultimate power but usually trust management to make day-to-day decisions like work arrangements. Moderate interest unless turnover becomes a serious crisis.
 
-**Problem Exploration:**
-- Can you describe a specific example of when this problem occurred?
-- What impact has this problem had on your work/experience?
-- What do you think causes this problem?
+## Power-Interest Grid
 
-**Solution Discussion:**
-- What solutions have you considered or tried?
-- How do you think [proposed solution] would work in practice?
-- What challenges or barriers do you foresee?
+### High power / high interest (Manage These People Closely)
+- **Senior leadership:** Can approve or veto the policy; care a lot about what happens
+- **HR:** Has to implement it and track results; will be held accountable for retention
+- **People managers:** Have to make it work day-to-day; experience the consequences directly
 
-**Implementation Questions:**
-- What would success look like from your perspective?
-- What support would you need to make this solution work?
-- Who else should be involved in addressing this problem?
+### High interest / lower formal power (Keep These People Informed)
+- **Employees:** Directly affected by the policy; can quit (individual power) but can't block the policy
+- **Teams:** When employees organize together, they might have more power than individuals
+- **Local communities:** Benefit from the policy but have no real say in it
 
-### Focus Groups (if applicable)
-#### Focus Group Design
-- **Group Size:** [Target number of participants per group]
-- **Number of Groups:** [How many focus groups planned]
-- **Group Composition:** [Homogeneous or mixed stakeholder groups]
-- **Facilitation:** [Who will facilitate and how]
+### Moderate power / moderate interest (Keep These People Satisfied)
+- **Key clients:** Can give feedback or switch to a competitor
+- **Investors:** Care about results but usually trust management to figure out the details
+- **IT & facilities:** Have to make the policy work technically but don't make strategy decisions
+
+### Low power / low interest (Just Monitor These)
+- Most external stakeholders unless my organization is really big and prominent
+
+## Where I Found Stakeholder Information
+
+### Employee reactions to return-to-office and hybrid mandates
+
+I looked at real documented cases where employees reacted when companies moved from remote to hybrid or in-office:
+
+- **Amazon:** Employees walked out and started petitions against the 3-day office requirement
+- **Apple:** Employees wrote internal letters protesting the return-to-office policy
+- **Google:** Employees complained about performance reviews being tied to office attendance
+- **Washington Post:** Staff pushed back against in-office requirements
+- **U.S. federal government:** Unions fought against return-to-office mandates
+
+**Sources:** The Verge, Business Insider, The Guardian, New York Post
+
+These cases show the full range of how employees react: some accept hybrid, some protest publicly, some quietly start job hunting.
+
+### What leadership says when defending hybrid and in-office policies
+
+I looked at how company leaders explained their return-to-office decisions:
+
+- **Amazon (CEO Andy Jassy):** Talked about culture, innovation, and collaboration benefits
+- **Apple:** Said in-person work helps with creativity and teamwork across departments
+- **Microsoft:** Emphasized trust, flexibility, and giving employees choices in hybrid setups
+
+**Sources:** FlexOS, About Amazon (official company communications), Barron's
+
+This shows the reasons leadership typically uses: culture building, innovation, mentoring. Some take a hard line (mandates), others are more flexible (giving choices).
+
+### Large surveys showing what stakeholders think
+
+I used big surveys to understand what different groups of people want overall:
+
+- **Microsoft Work Trend Index:** Global survey of employees and leaders about hybrid preferences
+- **Gallup global work surveys:** Measured engagement, wellbeing, and happiness across different work arrangements
+- **Houston Chronicle coverage of Gallup findings**
+
+These give me representative data on what different stakeholder groups want and how they're actually experiencing different work arrangements.
+
+## AI Assistance
+
+I used AI to:
+- Create the initial stakeholder list (AI suggested groups I might have forgotten, like local communities and regulators)
+- Organize the power/interest grid using a standard stakeholder analysis framework
+- Find concrete real-world examples (AI helped me locate specific company cases that showed different stakeholder reactions)
 
 ## Sampling Strategy
 

@@ -1,53 +1,83 @@
 # Practitioner Evidence: Expert Insights & Professional Experience
-# Document the insights gathered from practitioners and case studies
 
-## Evidence Summary Overview
-**Total Practitioners Consulted:** [Number]
-**Interview Completion Rate:** [Percentage of attempted interviews completed]
-**Geographic Scope:** [Where practitioners are located]
-**Experience Range:** [Years of experience represented]
-**Industry Coverage:** [Sectors/industries represented]
+## Source 1 – McKinsey: hybrid is now the dominant model
 
-## Expert Interview 1
-### Practitioner Profile
-- **Name/Title:** [Name and current role]
-- **Organization:** [Current company/organization]
-- **Experience:** [Years in field, relevant background]
-- **Industry Focus:** [Primary industry/sector experience]
-- **Relevance:** [Why this person's insights matter]
+### What McKinsey Found
 
-### Problem-Related Insights
-#### Problem Recognition
-- **Experience with This Problem:** [Have they encountered your problem?]
-- **Problem Frequency:** [How common is this in their experience?]
-- **Problem Manifestation:** [How does this problem typically show up?]
-- **Root Causes:** [What do they see as underlying causes?]
+McKinsey's 2023 research shows that most office workers are now hybrid: 37% work fully in the office, 56% are hybrid, and only 7% are fully remote.
 
-#### Problem Impact
-- **Organizational Consequences:** [What happens when this problem isn't addressed?]
-- **Stakeholder Effects:** [Who gets hurt most by this problem?]
-- **Long-term Implications:** [What are the lasting effects?]
+In their later work on return-to-office policies, they found there's no clear winner between fully in-person, hybrid, and fully remote when it comes to employee experience. But the outcomes depend a lot on how you implement hybrid - things like being clear about expectations, treating people fairly, and setting good team norms matter.
 
-### Solution-Related Insights
-#### Recommended Approaches
-- **Preferred Solutions:** [What approaches do they recommend?]
-- **Successful Examples:** [What have they seen work?]
-- **Failed Attempts:** [What approaches haven't worked?]
-- **Best Practices:** [What are the key success factors?]
+### What This Means for Moving from Fully Remote to Hybrid
 
-#### Implementation Guidance
-- **Critical Success Factors:** [What must go right for solutions to work?]
-- **Common Pitfalls:** [What typically goes wrong?]
-- **Resource Requirements:** [What resources are essential?]
-- **Timeline Expectations:** [How long does change typically take?]
+Hybrid is now the standard, not some experimental thing. So if I move employees from fully online to hybrid, I'm actually aligning with what most other companies are doing. This helps with retention because people won't feel like they're getting a worse deal than their friends at other companies.
 
-### Specific Recommendations for Your Situation
-[What specific advice did they give for your context?]
+But McKinsey also warns that if you do it badly - like being too rigid with no flexibility or not explaining why you're doing it - you can actually hurt satisfaction and make people want to leave. So how I implement this change matters just as much as the change itself.
 
 ---
 
-## Expert Interview 2
-### Practitioner Profile
+## Source 2 – Gallup: engagement vs "thriving" in remote/hybrid
+
+### What Gallup Found
+
+Gallup's research shows that hybrid workers often report the highest engagement, while people working fully on-site report the lowest.
+
+But here's the interesting part: their newer surveys show that fully remote workers can be highly engaged (focused and productive) but they're the least likely to say they're "thriving" overall. Remote workers report more feelings of loneliness, anger, and sadness compared to hybrid workers.
+
+### What This Means for My Situation
+
+Right now, with everyone fully online, people might look engaged and productive, but there could be hidden wellbeing problems brewing. Just because people are getting work done doesn't mean they're actually happy or fulfilled.
+
+Moving to hybrid could help reduce that isolation and improve overall wellbeing. And better wellbeing usually means lower turnover - people don't quit jobs where they feel good.
+
+---
+
+## Source 3 – Microsoft Work Trend Index & big-tech cases
+
+### What Microsoft Found:
+
+Microsoft's surveys show that 70% of workers want flexible remote options to continue, but more than 65% also want more in-person time with their teams. So people want both - not all remote, not all office.
+
+Microsoft emphasizes that hybrid has to include trust and flexibility, not rigid mandates where you're just tracking who shows up.
+
+### What Happened at Apple, Amazon, and Google:
+
+These companies saw serious pushback - even protests - when they tried to bring people back to the office aggressively. For example:
+- Apple employees wrote internal letters protesting their 3-day office policy
+- Amazon employees organized walkouts and petitions
+- Google started tying performance reviews to office attendance, which made people furious
+
+### What This Means for My Plan
+
+Practitioners all agree that employees value hybrid and flexibility, but how you communicate it and design it really matters.
+
+If I frame moving to hybrid as "we're giving you flexibility and supporting your wellbeing," people will probably react positively. But if it comes across as "we don't trust you to work from home" or "we're tracking your attendance," people will resist hard.
+
+---
+
+## How this practitioner evidence supports my plan
+
+### The Problem (why we need to change): 
+
+Staying fully online creates risks:
+- Isolation and wellbeing issues
+- Weaker company culture
+- We're out of sync with what most companies are doing now (most competitors are hybrid)
+
+### The Solution (why hybrid will help): 
+
+Well-designed hybrid is linked to:
+- Better wellbeing
+- Engagement that's as good or better than full remote
+- An advantage in attracting and keeping talent
+
+This all supports my claim that switching to hybrid can reduce turnover.
+
+---
+
+## AI assistance
+
+I used AI to help summarize the long reports into key points and to spot contradictions (like how some "hybrid" implementations work great while others cause employee backlash). Then I went back and checked the actual sources to make sure I got it right.
 - **Name/Title:** [Name and current role]
 - **Organization:** [Current company/organization]
 - **Experience:** [Years in field, relevant background]

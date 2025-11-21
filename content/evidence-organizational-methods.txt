@@ -1,53 +1,66 @@
-# Organizational Evidence: Internal Data Collection Strategy
-# Document your approach to gathering internal organizational evidence
+# Organizational Evidence: Methods & Acquisition
 
-## Internal Evidence Goals
-**Primary Goal:** [What internal data do you need about your problem?]
-**Secondary Goal:** [What internal data do you need about solution feasibility?]
+## Goal
 
-## Available Data Sources
+I wanted to use professional data sources to understand:
 
-### Performance Metrics/KPIs
-- **Financial Data:** [Revenue, costs, profitability metrics]
-- **Operational Data:** [Efficiency, productivity, quality metrics]
-- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
-- **Customer Data:** [Satisfaction, retention, acquisition metrics]
-- **Other Relevant Metrics:** [Industry-specific measurements]
+1. How common is remote/hybrid work right now? (Is everyone else doing this?)
+2. Does the job market favor companies that offer hybrid, or does it not really matter?
 
-### Internal Systems
-- **CRM Systems:** [Customer relationship data]
-- **ERP Systems:** [Enterprise resource planning data]
-- **HR Information Systems:** [Employee data and metrics]
-- **Financial Systems:** [Accounting and financial data]
-- **Operations Systems:** [Production, service delivery data]
+## Data sources I used
 
-### Reports and Documentation
-- **Regular Reports:** [Monthly, quarterly, annual reports]
-- **Survey Results:** [Employee, customer, stakeholder surveys]
-- **Audit Results:** [Internal and external audit findings]
-- **Assessment Reports:** [Performance reviews, process evaluations]
-- **Historical Studies:** [Previous internal research or analysis]
+### Bureau of Labor Statistics (BLS)
+- Their telework and time-use tables
+- Current Population Survey (CPS) data showing telework by job type and industry
+- American Time Use Survey (ATUS) data on where people work
+- BLS research reports on remote work and productivity
+- www.bls.gov
 
-## Data Collection Plan
+The BLS is the government agency that tracks employment data, so their numbers are reliable and comprehensive.
 
-### Quantitative Data Collection
-#### Metrics to Collect
-[List specific metrics relevant to your problem and solution]
+### U.S. Census / USAFacts
+- Data on how many workers usually work from home
+- Census Bureau's American Community Survey (ACS)
+- USAFacts compilations of work-from-home trends
+- Census.gov, USAFacts.org
 
-**Problem-Related Metrics:**
-- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
+The Census gives us national-level data on workforce trends.
 
-**Solution-Related Metrics:**
-- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
+### Work-from-Home Research (Barrero et al.)
+- An ongoing research project tracking WFH in the U.S. economy
+- They run the Survey of Working Arrangements and Attitudes (SWAA)
+- Their findings are published in peer-reviewed journals and updated regularly
+- WFHresearch.com
 
-#### Time Period Analysis
-- **Historical Data Range:** [How far back will you look?]
-- **Trend Analysis Period:** [What timeframe for trend identification?]
-- **Seasonal Considerations:** [Any seasonal patterns to account for?]
+This is academic research specifically focused on understanding the work-from-home phenomenon.
+
+## My logic model
+
+Here's how I think this change will work:
+
+**X (The Change): Move from fully online to hybrid (2-3 days in office/week)**
+
+This is what I'm proposing - bring people into the office 2-3 days per week instead of staying fully remote.
+
+**M1 (What happens first): Reduced isolation & better collaboration**
+
+By bringing people together in person, I expect them to feel less isolated and be able to collaborate better through face-to-face interaction.
+
+**M2 (What happens next): Higher job satisfaction / thriving**
+
+The combination of less isolation plus keeping some flexibility should improve how people feel about their job and their overall wellbeing.
+
+**Y (The Ultimate Goal): Lower turnover and maintained performance**
+
+Fewer people quit (which saves money on hiring and training), while we keep performance at the same level or better.
+
+This logic model helps me figure out what evidence I need: data showing hybrid is now standard (context), proof that hybrid reduces isolation (M1), proof that it improves satisfaction (M2), and proof that this all leads to better retention (Y).
+
+## AI assistance
+
+AI helped me find the right BLS tables and surveys (CPS, ATUS) that had the most useful data on work arrangements by occupation.
+
+AI also suggested I focus on knowledge workers and professional jobs rather than looking at the whole economy, since national averages include jobs like retail and manufacturing that can't be done remotely anyway. Those would just muddy the picture.
 - **Baseline Period:** [What period represents "normal" operations?]
 
 ### Qualitative Data Collection

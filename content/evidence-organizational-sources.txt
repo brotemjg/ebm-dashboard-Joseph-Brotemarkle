@@ -1,103 +1,100 @@
-# Organizational Evidence: Internal Data & Performance Metrics
-# Document and analyze internal organizational data relevant to your problem
+# Organizational Evidence: Sources & Analysis
 
-## Data Collection Summary
-**Collection Period:** [Start date] to [End date]
-**Data Sources Accessed:** [Number and types of sources]
-**Data Quality Assessment:** [High/Medium/Low overall quality]
+## DATA → INFORMATION → EVIDENCE
 
-## Performance Metrics Analysis
+### 1. THE RAW DATA
 
-### Problem-Related Metrics
+#### How common is remote/hybrid work?
 
-#### Metric 1: [Metric Name]
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+**Bureau of Labor Statistics (BLS):** 
 
-#### Metric 2: [Metric Name]  
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+In 2023, 35% of employed people did at least some work at home on days they worked. This is up from 24% in 2019.
 
-#### Metric 3: [Metric Name]
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+What this tells us: Remote and hybrid work is now mainstream, not some rare perk. More than a third of all workers have some remote work as part of their normal routine.
 
-### Solution-Feasibility Metrics
+**U.S. Census Bureau:**
 
-#### Resource Availability Indicators
-- **Budget Available:** [Amount] for [Time period]
-- **Staff Capacity:** [FTE available] for [Duration]
-- **Technology Resources:** [Systems/tools currently available]
-- **Previous Initiative Success Rate:** [Percentage] over [Time period]
+In 2023, 13.8% of U.S. workers usually worked from home. That's more than double the 5.7% from 2019.
 
-#### Organizational Readiness Indicators
-- **Change Management Capacity:** [Assessment based on past initiatives]
-- **Leadership Support Level:** [Evidence from resource allocation, communication]
-- **Employee Engagement Scores:** [Current levels and trends]
-- **Training/Development Investment:** [Current spend and capacity]
+What this tells us: Full remote work (where people almost never go to an office) is still relatively rare, but it's way more common than it used to be.
 
-## Internal Reports Analysis
+**Barrero, Bloom & Davis (Work-from-Home Research):**
 
-### Report 1: [Report Name/Type]
-- **Report Period:** [Time period covered]
-- **Key Findings Related to Problem:** [What this report reveals about your problem]
-- **Key Findings Related to Solution:** [What this report reveals about solution feasibility]
-- **Data Quality Assessment:** [How reliable is this report]
-- **Limitations:** [What this report doesn't tell you]
+Work-from-home accounts for about 29% of all full workdays in 2023 across major surveys. And it's stayed at this high level - not dropping back down toward pre-pandemic numbers.
 
-### Report 2: [Report Name/Type]
-[Follow same structure as Report 1]
+What this tells us: If you look at all the workdays happening in America, roughly 3 out of 10 are now done remotely. And the researchers emphasize this is a permanent change, not just a temporary pandemic thing that's going away.
 
-### Report 3: [Report Name/Type]
-[Follow same structure as Report 1]
+#### Breaking it down by job type
 
-## Process Analysis
+**BLS Current Population Survey (CPS) telework data:**
 
-### Current State Process Documentation
-**Process Name:** [The process most affected by your problem]
-- **Process Description:** [How the process currently works]
-- **Process Performance:** [Current efficiency, quality, cost metrics]
-- **Problem Manifestation:** [How the problem shows up in this process]
-- **Improvement Potential:** [What organizational data suggests about improvement opportunities]
+About 1 in 3 workers in management, professional, and related occupations teleworked in late 2023.
 
-### Historical Process Performance
-- **Baseline Performance:** [What performance looked like before problem emerged]
-- **Performance Decline Pattern:** [How and when performance deteriorated]
-- **Contributing Factors:** [What internal data suggests about causes]
-- **Previous Improvement Attempts:** [What's been tried and what were the results]
+Nearly half of workers in financial activities teleworked in September 2023.
 
-## Financial Analysis
+Why this matters: For knowledge workers and professional jobs (like the ones most companies have), remote work is extremely common. Your employees' peers at other companies largely expect at least some remote flexibility. It's become a standard part of professional jobs, not a special benefit.
 
-### Cost of the Problem
-**Direct Costs:**
-- **Cost Category 1:** $[Amount] per [Time period] - [Explanation]
-- **Cost Category 2:** $[Amount] per [Time period] - [Explanation]
-- **Cost Category 3:** $[Amount] per [Time period] - [Explanation]
+#### What does remote work do to companies?
 
-**Indirect Costs:**
-- **Opportunity Cost:** $[Amount] - [Lost revenue/productivity]
-- **Hidden Costs:** $[Amount] - [Additional resources required]
-- **Risk Costs:** $[Amount] - [Potential future costs if problem continues]
+**BLS Monthly Labor Review article on remote-work productivity:**
 
-### Investment Capacity Analysis
-- **Available Budget:** $[Amount] for problem-solving initiatives
-- **Budget Allocation History:** [How organization typically invests in improvements]
-- **ROI Requirements:** [What return on investment is typically required]
-- **Budget Approval Process:** [How funding decisions are made]
+They reviewed a bunch of company experiments and research studies and found:
 
-## Employee/HR Data Analysis
+- Hybrid or remote work has small positive effects on productivity (not negative like some people assume)
+- Remote work led to lower job turnover because job satisfaction went up, which saved companies money on hiring and training
+
+This isn't just one study - it's a pattern across multiple companies. So we can be more confident it's real.
+
+---
+
+### 2. WHAT THE DATA ACTUALLY MEAN
+
+#### Remote/hybrid work is here to stay
+
+Companies and employees haven't gone back to the old "everyone in the office" model after the pandemic. All the data sources (BLS, Census, academic research) tell the same story: work-from-home is "sticky" - meaning it's stuck at this new higher level (about 3x higher than 2019) and isn't going back down.
+
+#### For professional jobs, hybrid is now the norm
+
+For the types of jobs most companies have (professional, managerial, financial, technical roles), hybrid is now standard. Fully in-office jobs are becoming less common in job postings, and employees now expect flexibility as a normal part of their benefits package - like health insurance or vacation days.
+
+When people job hunt now, they actively filter for "remote" or "hybrid" options. Companies that only offer in-office work are having trouble attracting good talent because they're competing against companies that offer more flexibility.
+
+#### Remote/hybrid flexibility helps with retention and productivity
+
+The BLS review, plus the specific studies I found (Trip.com and BRAC), all show the same thing: offering some work-from-home days improves satisfaction and reduces turnover, without hurting performance. Sometimes productivity even goes up because people save commute time, have fewer distractions, and have better work-life balance.
+
+---
+
+### 3. WHAT THIS MEANS FOR MY PLAN
+
+#### The Problem: Why staying fully remote might be risky
+
+If my employees are fully online while most other companies have moved to hybrid, we're now an outlier. And being an outlier can create problems.
+
+Some employees might actually want:
+- More face-to-face collaboration for complex projects, brainstorming, and building real relationships
+- Better mentoring and learning opportunities (which are harder to do well on Zoom)
+- Clearer separation between work and home life (avoiding the "always on" feeling when your office is your living room)
+
+Plus, if competitors are offering hybrid while we're fully remote, talented employees might leave for a hybrid company where they can get the best of both worlds.
+
+#### The Solution: Why moving to hybrid helps
+
+By moving to hybrid, I'm doing three important things:
+
+**Getting in line with the market:** We won't be weird anymore. This helps with retention (current employees won't feel like they're missing out) and recruitment (job seekers will see us as competitive).
+
+**Following the research evidence:** The BLS data, plus those experimental studies, all show hybrid often works better than the extremes. Better than full office (Trip.com found) and better than full remote (BRAC found).
+
+**Having a solid, evidence-based reason:** Instead of just saying "because I said so" or "because I have a gut feeling," I can show employees and leadership real data proving that hybrid is now standard and that it improves outcomes. This makes the change feel fair and logical instead of arbitrary.
+
+---
+
+## AI assistance
+
+I used AI to help me translate the raw percentages into a story that makes sense ("remote work is sticky and structural, not temporary").
+
+AI also helped me connect the national data to my specific plan and logic model, showing how this context supports my case for going hybrid.
 
 ### Workforce Metrics
 - **Employee Turnover Rate:** [Percentage] in [Time period]
