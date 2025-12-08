@@ -119,11 +119,3 @@ Extremely low value stakeholders will not be formally communicated with.
 
 ### Milestone Reviews
 At the beginning of the intervention and at the end of the implementation of the intervention.
-
----
-INSTRUCTIONS:
-1. Be specific and measurable - avoid vague terms like "better" or "improved"
-2. Ensure criteria are achievable given your resources and timeline
-3. Include both quantitative and qualitative measures
-4. Consider different stakeholder perspectives on success
-5. Plan how you'll actually collect the measurement data

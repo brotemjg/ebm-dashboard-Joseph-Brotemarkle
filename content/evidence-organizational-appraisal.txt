@@ -140,14 +140,4 @@ AI tools were used for research purposes only.
 ### Recommendations for Data Improvement
 [What could be done to strengthen organizational evidence for future decisions]
 
-### Integration with Other Evidence Types
-**Complementary Evidence Needs:** [What other evidence types help offset limitations in organizational data]
-**Triangulation Opportunities:** [How organizational data can be validated against other evidence]
 
----
-INSTRUCTIONS:
-1. Be honest about data limitations - perfect organizational data is extremely rare
-2. Consider how organizational politics and culture affect data quality
-3. Assess whether data actually measures what you think it measures
-4. Evaluate both the technical quality and practical utility of the data
-5. Consider how data quality affects confidence in your conclusions

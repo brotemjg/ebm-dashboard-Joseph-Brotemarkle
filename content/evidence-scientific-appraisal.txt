@@ -163,13 +163,4 @@ AI tools were used for research purposes only.
 ### Evidence-Based Recommendations
 [What does the research clearly support or contradict?]
 
-### Areas Requiring Other Evidence Types
-[Where is scientific evidence insufficient and other evidence crucial?]
 
----
-INSTRUCTIONS:
-1. Be honest about study limitations - don't oversell weak evidence
-2. Consider both internal validity (study quality) and external validity (generalizability)
-3. Look for patterns across studies, not just individual study quality
-4. Consider what evidence is missing, not just what's available
-5. Connect quality assessment back to your specific decision-making needs

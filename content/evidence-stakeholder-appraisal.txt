@@ -183,13 +183,4 @@ AI tools were used for research purposes only.
 **Overall Confidence:** [High/Medium/Low]
 **Justification:** [Explain why you have this level of confidence in using this evidence for decisions]
 
-### Recommendations for Evidence Improvement
-[What you would do differently or additionally to strengthen the stakeholder evidence]
 
----
-INSTRUCTIONS:
-1. Be honest about limitations - perfect stakeholder evidence is rare
-2. Consider multiple types of bias that could affect your findings
-3. Assess whether different stakeholder groups' perspectives align or conflict
-4. Evaluate how actionable the stakeholder insights actually are
-5. Note any important stakeholder voices that are missing

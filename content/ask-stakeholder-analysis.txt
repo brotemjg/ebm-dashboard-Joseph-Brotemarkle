@@ -113,10 +113,3 @@ These questions would be adjusted for managers but would have the same content.
 High value stakeholders would be communicated with through meetings and phone calls.
 Medium value stakeholders would be communicated with through things like phone calls and emails.
 Low value stake holders would be given email updates.
-
----
-INSTRUCTIONS:
-1. Be specific about each stakeholder group's interests and influence
-2. Consider both obvious and hidden stakeholders
-3. Think about implementation challenges from stakeholder perspectives
-4. This analysis will guide your stakeholder evidence collection

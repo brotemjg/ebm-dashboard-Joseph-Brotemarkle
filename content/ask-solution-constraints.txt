@@ -54,9 +54,6 @@ Use this file to record constraints that limit solution design and implementatio
   2. [Risk] — [Mitigation]
 
 ## Approval and escalation
-- Decision owners: [names / roles]
-- Approval thresholds (budget / timeline): [notes]
-- Escalation path: [contacts and steps]
-
----
-INSTRUCTIONS: Fill each section with specific details to make solution design choices traceable and defensible.
+- Decision owners: HR Leadership and Executive Team
+- Approval thresholds: Budget approval needed for office upgrades, technology, and training costs
+- Escalation path: Department managers → HR Director → Executive Leadership

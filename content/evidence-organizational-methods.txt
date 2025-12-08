@@ -166,13 +166,4 @@ AI tools were used for research purposes only to help identify relevant data sou
 ### Proxy Measures
 [What substitute metrics could you use if ideal data isn't available?]
 
-### Simplified Analysis
-[What's the minimum viable organizational evidence you need?]
 
----
-INSTRUCTIONS:
-1. Start with readily available data before pursuing hard-to-access information
-2. Be respectful of privacy and confidentiality when requesting internal data
-3. Focus on data most relevant to your specific problem and solution
-4. Document your data sources and analysis methods clearly
-5. Have backup plans for inaccessible data

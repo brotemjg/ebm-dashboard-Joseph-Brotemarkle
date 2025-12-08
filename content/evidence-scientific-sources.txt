@@ -157,17 +157,4 @@ AI tools were used for research purposes only to help locate relevant studies.
 #### Solution-Related Insights
 [What research says about your proposed solution]
 
-#### Implementation Considerations
-[What research suggests about how to implement]
 
-### Research-Based Recommendations
-[What does the scientific evidence suggest you should do?]
-
----
-INSTRUCTIONS:
-1. Include at least 3-5 high-quality studies
-2. Focus on findings most relevant to your specific problem and solution
-3. Be objective - include both supportive and challenging evidence
-4. Use proper academic citations
-5. Connect findings back to your specific management problem
-6. Don't just summarize - analyze and synthesize across studies

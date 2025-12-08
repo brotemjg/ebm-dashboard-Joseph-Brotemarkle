@@ -107,10 +107,4 @@ Practical tips for no-institution-access searches
 - Check references and cited-by in Google Scholar for backward/forward citation chasing.
 - Use browser PDF viewers and save PDFs with a consistent filename convention: author_year_journal_title.pdf.
 
-Next steps you can ask me to run
-- Generate 4–6 polished Google Scholar query strings tuned to the project's PICOC and ready-to-copy.
-- Create a `data/search-logs/README.txt` and a PRISMA CSV template for logging searches and screening counts.
-- Draft a short protocol snippet (one-page) summarizing the search strategy for Milestone 2.
 
----
-INSTRUCTIONS: Save edits and commit often. Use the appraisal checklist file for risk-of-bias decisions.

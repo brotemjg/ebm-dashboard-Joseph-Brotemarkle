@@ -117,21 +117,7 @@ AI tools were used for research purposes only to help locate relevant sources.
 ## Expert Interview 3
 ### Practitioner Profile
 - **Name/Title:** [Name and current role]
-- **Organization:** [Current company/organization]
-- **Experience:** [Years in field, relevant background]
-- **Industry Focus:** [Primary industry/sector experience]
-- **Relevance:** [Why this person's insights matter]
 
-### Problem-Related Insights
-[Follow same structure as above interviews]
-
-### Solution-Related Insights
-[Follow same structure as above interviews]
-
-### Specific Recommendations for Your Situation
-[What specific advice did they give for your context?]
-
----
 
 ## Case Study 1: [Organization/Situation Name]
 ### Case Background
@@ -167,18 +153,8 @@ AI tools were used for research purposes only to help locate relevant sources.
 
 ### Relevance to Your Situation
 - **Similarities:** [How is this case similar to your context?]
-- **Differences:** [How is this case different from your context?]
-- **Applicable Insights:** [What can you learn from this case?]
-
----
-
-## Case Study 2: [Organization/Situation Name]
-[Follow same structure as Case Study 1]
-
----
-
-## Case Study 3: [Organization/Situation Name]
-[Follow same structure as Case Study 1]
+- **Differences:** These are large tech companies with different resources and cultures than most organizations
+- **Applicable Insights:** The pattern is clear - rigid mandates create resistance, but thoughtful hybrid policies with flexibility can work well
 
 ---
 
@@ -237,17 +213,4 @@ AI tools were used for research purposes only to help locate relevant sources.
 ### Medium-term Strategy
 [What should your overall approach be?]
 
-### Long-term Considerations
-[What should you plan for in the longer term?]
 
-### Context-Specific Adaptations
-[How should you adapt general advice to your specific situation?]
-
----
-INSTRUCTIONS:
-1. Include at least 3 practitioner interviews and 2-3 relevant case studies
-2. Focus on actionable insights, not just general opinions
-3. Look for patterns across different practitioners' experiences
-4. Document both successes and failures they've observed
-5. Connect their insights to your specific problem and context
-6. Be prepared to follow up with clarifying questions
