@@ -108,51 +108,6 @@ I'd rate organizational data as **high quality for showing context and what's no
 ## Research Note
 
 AI tools were used for research purposes only.
-
-**Political Factors:**
-- **Pressure to Show Improvement:** [Whether there's pressure to manipulate data positively]
-- **Blame Culture Impact:** [Whether fear of blame affects honest reporting]
-- **Resource Competition:** [Whether departments compete in ways that might affect data]
-
-#### System Limitations
-**Technology Constraints:** [How IT systems limit data quality or availability]
-**Process Constraints:** [How business processes affect data collection]
-**Resource Constraints:** [How limited resources affect data quality]
-
-### Stakeholder Influence Assessment
-
-#### Data Provider Credibility
-**Data Collectors/Managers:**
-- **Competence Assessment:** [How skilled are people who collect/manage this data]
-- **Motivation Assessment:** [What motivates data collectors - accuracy vs. other priorities]
-- **Training Assessment:** [How well-trained are data collectors]
-
-**Data Users/Interpreters:**
-- **Analytical Skills:** [How capable are people who analyze this data normally]
-- **Bias Awareness:** [How aware are normal users of data limitations]
-- **Decision Integration:** [How well this data typically informs decisions]
-
-## Context-Specific Reliability
-
-### Problem-Specific Assessment
-**Problem Detection Capability:** [How well this data can identify your specific problem]
-**Problem Severity Assessment:** [How well this data can measure problem severity]
-**Solution Impact Measurement:** [How well this data could measure solution effectiveness]
-
-### Decision-Making Utility
-**Actionability:** [How well this data supports specific decisions]
-**Timeliness:** [Whether data is available soon enough to inform decisions]
-**Granularity:** [Whether data is detailed enough for your decision needs]
-
-## Quality Rating by Data Category
-
-### Performance Metrics
-**Overall Quality Rating:** [High/Medium/Low]
-**Strengths:** [What makes this performance data reliable]
-**Limitations:** [What limits confidence in performance data]
-**Decision Support Value:** [How useful this data is for decisions]
-
-### Financial Data
 **Overall Quality Rating:** [High/Medium/Low]
 **Strengths:** [What makes financial data reliable]
 **Limitations:** [What limits confidence in financial data]
