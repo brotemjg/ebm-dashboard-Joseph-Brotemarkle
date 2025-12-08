@@ -8,27 +8,27 @@ I'm using the PICOC framework to check if the evidence from other organizations 
 ### P - Population
 **Their population:** Remote-capable knowledge workers (tech engineers, NGO professionals, survey samples of office workers)
 **My population:** Remote-capable knowledge workers in professional/managerial roles
-**Fit:** ✅ Good match - the people in the studies are similar to my employees
+**Fit:** Good match - the people in the studies are similar to my employees
 
 ### I - Intervention  
 **Their intervention:** Structured hybrid policy with fixed or semi-fixed number of in-office days per week (2-3 days)
 **My intervention:** Same - moving to 2-3 hybrid days
-**Fit:** ✅ Matches exactly what was studied
+**Fit:** Matches exactly what was studied
 
 ### C - Comparison
 **Their comparison:** Hybrid vs fully in-office, or hybrid vs high work-from-home
 **My comparison:** Moving from fully remote to hybrid
-**Fit:** ✅ Good - research shows moving away from extremes (all office OR all remote) toward hybrid is beneficial
+**Fit:** Good - research shows moving away from extremes (all office OR all remote) toward hybrid is beneficial
 
 ### O - Outcomes
 **Their outcomes:** Voluntary turnover, performance, job satisfaction, wellbeing
 **My outcomes:** Same - voluntary turnover is primary, with performance and wellbeing as secondary
-**Fit:** ✅ Direct match
+**Fit:** Direct match
 
 ### C - Context
 **Their context:** Various organizations (tech companies, NGOs, large firms) with remote-capable roles and digital infrastructure
 **My context:** Mid-size or large organization with remote-capable roles and existing digital tools
-**Fit:** ⚠️ Reasonably similar, though my specific culture and local labor market may differ
+**Fit:** Reasonably similar, though my specific culture and local labor market may differ
 
 ### Conclusion
 **The evidence generalizes reasonably well to my situation**, with caution around cultural differences and what my current employees actually prefer.

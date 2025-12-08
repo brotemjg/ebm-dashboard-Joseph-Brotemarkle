@@ -268,9 +268,9 @@ When I see changes in turnover or performance, I need to make sure it's actually
 Using proportions test for 15% vs 12% with power 0.80:
 - Need approximately **1,500-2,000 employee-years of observation**
 - Translation:
-  - If 200 hybrid-eligible employees: 12 months pre + 12 months post = 400 employee-years each period (800 total) ⚠️ **Underpowered**
-  - If 300 hybrid-eligible employees: 12 months pre + 12 months post = 600 employee-years each period (1,200 total) ⚠️ **Marginally powered**
-  - If 500 hybrid-eligible employees: 12 months pre + 12 months post = 1,000 employee-years each period (2,000 total) ✅ **Adequately powered**
+  - If 200 hybrid-eligible employees: 12 months pre + 12 months post = 400 employee-years each period (800 total) **Underpowered**
+  - If 300 hybrid-eligible employees: 12 months pre + 12 months post = 600 employee-years each period (1,200 total) **Marginally powered**
+  - If 500 hybrid-eligible employees: 12 months pre + 12 months post = 1,000 employee-years each period (2,000 total) **Adequately powered**
 
 **What this means:**
 - With 200-300 employees, I may not have enough statistical power to detect a 20% reduction, especially if effect is smaller than expected
@@ -296,8 +296,8 @@ Using paired t-test (before/after within same employees):
 - Need approximately **90-120 survey respondents** for 80% power to detect 0.3-point change
 
 **What this means:**
-- If I have 200 eligible employees and get 70% response rate: 140 respondents ✅ **Adequately powered**
-- If I have 150 eligible employees and get 60% response rate: 90 respondents ✅ **Minimally powered**
+- If I have 200 eligible employees and get 70% response rate: 140 respondents **Adequately powered**
+- If I have 150 eligible employees and get 60% response rate: 90 respondents **Minimally powered**
 - **Target response rate: 70%+ to ensure adequate power**
 
 **Strategies to maximize response rate:**
@@ -413,9 +413,9 @@ Even the best policy won't work if it's not actually implemented as designed. I 
 ### Content fidelity (What must be implemented)
 
 **Essential components:**
-- ✅ Clearly defined hybrid policy for eligible roles (2 anchor days + 3 remote)
-- ✅ Manager training on hybrid leadership
-- ✅ Documented team norms (or "team hybrid agreements")
+- Clearly defined hybrid policy for eligible roles (2 anchor days + 3 remote)
+- Manager training on hybrid leadership
+- Documented team norms (or "team hybrid agreements")
 
 **How I'll check:** Review policy documentation, training records, team agreement documents
 
