@@ -1,8 +1,15 @@
-# 🎯 Your Evidence-Based Management Dashboard Project
+# 🎯 Evidence-Based Management Dashboard Project
 
-## 🚀 Welcome to Your Semester-Long Project!
+**Student Name:** Joseph Brotemarkle  
+**GitHub Repository:** https://github.com/brotemjg/ebm-dashboard-Joseph-Brotemarkle  
+**Problem Focus:** Implementing a hybrid work policy to reduce voluntary turnover  
+**Date:** December 8, 2025
 
-You're about to build your own **professional Evidence-Based Management dashboard** that will become a portfolio-worthy showcase of your skills. This isn't just an assignment - it's a real tool you'll use throughout your career!
+---
+
+## 🚀 Project Overview
+
+This **professional Evidence-Based Management dashboard** showcases a complete analysis of whether implementing a structured hybrid work policy will reduce employee turnover while maintaining performance and wellbeing.
 
 ### 📋 What You're Building
 
