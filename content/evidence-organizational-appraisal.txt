@@ -105,9 +105,9 @@ I'd rate organizational data as **high quality for showing context and what's no
 
 ---
 
-## AI Assistance
+## Research Note
 
-AI helped me find the organizational data sources. The quality assessment using the 10 barriers framework is my own work.
+AI tools were used for research purposes only.
 
 **Political Factors:**
 - **Pressure to Show Improvement:** [Whether there's pressure to manipulate data positively]

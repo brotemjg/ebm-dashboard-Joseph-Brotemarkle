@@ -117,9 +117,9 @@ In consulting, financial services, healthcare, and other industries where you wo
 
 ---
 
-## AI Assistance
+## Research Note
 
-AI helped me locate news stories, surveys, and company communications about stakeholder reactions. The analysis of practical and ethical impacts is my own work.
+AI tools were used for research purposes only.
 
 #### Unintended Consequences
 [What customers worry might go wrong]

@@ -40,9 +40,9 @@ It's really useful for understanding how employees and leaders actually experien
 
 ---
 
-## How AI helped with this assessment
+## Research Note
 
-AI helped me find the practitioner sources. The credibility assessment and confidence judgments are my own work.
+AI tools were used for research purposes only.
 - **Geographic Context:** [Same region/Similar region/Different region]
 - **Time Relevance:** [Recent/Somewhat recent/Dated]
 

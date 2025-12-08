@@ -91,9 +91,9 @@ So the performance ratings might be a bit inflated for the hybrid group. But the
 
 ---
 
-## How AI helped me evaluate these studies
+## Research Note
 
-AI helped me find the experimental studies. The quality assessment and confidence ratings are my own work.
+AI tools were used for research purposes only.
 [Any concerns about publication quality?]
 
 ### Peer Review Process

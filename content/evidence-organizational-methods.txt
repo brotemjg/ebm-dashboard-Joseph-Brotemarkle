@@ -56,11 +56,9 @@ Fewer people quit (which saves money on hiring and training), while we keep perf
 
 This logic model helps me figure out what evidence I need: data showing hybrid is now standard (context), proof that hybrid reduces isolation (M1), proof that it improves satisfaction (M2), and proof that this all leads to better retention (Y).
 
-## AI assistance
+## Research Note
 
-AI helped me find the right BLS tables and surveys (CPS, ATUS) that had the most useful data on work arrangements by occupation.
-
-AI also suggested I focus on knowledge workers and professional jobs rather than looking at the whole economy, since national averages include jobs like retail and manufacturing that can't be done remotely anyway. Those would just muddy the picture.
+AI tools were used for research purposes only to help identify relevant data sources.
 - **Baseline Period:** [What period represents "normal" operations?]
 
 ### Qualitative Data Collection

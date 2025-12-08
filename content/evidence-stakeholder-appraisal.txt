@@ -131,9 +131,9 @@ These questions would give me data specific to my organization instead of relyin
 
 ---
 
-## AI Assistance
+## Research Note
 
-AI helped me find stakeholder sources (news coverage, surveys, company communications). The assessment of representativeness, power dynamics, and confidence levels is my own work.
+AI tools were used for research purposes only.
 
 ### Completeness Assessment
 

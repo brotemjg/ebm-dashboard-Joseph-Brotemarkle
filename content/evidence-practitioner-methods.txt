@@ -76,9 +76,9 @@ These sources showed me:
 - What leaders said to justify their decisions
 - What worked and what didn't in different implementations
 
-## AI assistance
+## Research Note
 
-AI helped me find good sources by suggesting search terms and identifying relevant reports (McKinsey, Gallup, Microsoft). The analysis and interpretation are my own work.
+AI tools were used for research purposes only to help locate relevant sources.
 - What approaches have you seen work for this type of problem?
 - What solutions have you tried or observed?
 - What would you recommend based on your experience?

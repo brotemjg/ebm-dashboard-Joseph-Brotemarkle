@@ -110,9 +110,9 @@ The two studies together cover both sides of hybrid work: Trip.com shows hybrid 
 
 ---
 
-## AI assistance
+## Research Note
 
-AI helped me locate the research studies. The interpretation and analysis of how these studies apply to my decision are my own work.
+AI tools were used for research purposes only to help locate relevant studies.
 
 ### Study 5: [Brief title]
 - **Citation:** [Short citation]

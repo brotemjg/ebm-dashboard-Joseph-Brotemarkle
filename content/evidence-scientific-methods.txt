@@ -48,9 +48,9 @@ These are basically the only experimental studies out there that test hybrid vs 
 
 With experimental studies, I can actually say "hybrid will improve retention" instead of just "hybrid is associated with better retention."
 
-## AI assistance
+## Research Note
 
-AI helped me identify relevant academic databases and search terms to find good studies. The selection and appraisal of studies are my own work.
+AI tools were used for research purposes only to help identify relevant academic databases and search terms.
 - Full-text review: extract key design features, sample size, context, outcomes measured, effect estimates, and implementation notes.
 
 Inclusion criteria (adapt to question)
