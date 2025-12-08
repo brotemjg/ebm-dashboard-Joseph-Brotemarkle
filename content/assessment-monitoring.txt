@@ -1,53 +1,262 @@
 # Assessment: Monitoring & Evaluation Plan
-# Systematic approach to measuring implementation success and organizational impact
+# How I'll know if hybrid work actually improves retention and wellbeing
 
-## Evaluation Framework Overview
+## 1. Logic Model (X → M → Y)
 
-### Evaluation Questions
-**Primary Evaluation Question:** [Main question about whether your solution worked]
+This shows the logical chain from what I'm doing to why it should work to what results I expect.
 
-**Secondary Evaluation Questions:**
-1. [Second most important question about effectiveness]
-2. [Third most important question about implementation process]
-3. [Fourth question about stakeholder satisfaction]
-4. [Fifth question about unintended consequences]
+### X - Intervention (What I'm implementing)
 
-### Evaluation Approach
-**Evaluation Type:** [Formative (during implementation) and/or Summative (after completion)]
-**Evaluation Design:** [Before-and-after comparison, with-and-without comparison, case study, etc.]
-**Mixed Methods Approach:** [How you'll combine quantitative and qualitative data]
+**Implement a structured hybrid work policy for remote-capable employees:**
+- 2 anchor days in office per week
+- 3 days remote  
+- Supported by manager training and clear team norms
 
-## Key Performance Indicators (KPIs)
+### M - Mechanisms (How/why it should work)
 
-### Outcome KPIs (What Changed)
+**Improved social connection and collaboration**
+- More face-to-face time strengthens relationships and informal knowledge sharing
 
-#### Primary Outcome KPI
-**KPI:** [Most important measure of whether your solution worked]
-- **Current Baseline:** [Where you're starting from]
-- **Target:** [What you want to achieve]
-- **Timeline:** [When you expect to see this change]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll gather this data]
-- **Measurement Frequency:** [How often you'll measure this]
+**Reduced isolation and better wellbeing**
+- Employees spend some time in the office but retain flexibility on other days
+- Less lonely than full remote, but more flexibility than full office
 
-#### Secondary Outcome KPIs
-**KPI 1:** [Second most important outcome measure]
-- **Current Baseline:** [Starting point]
-- **Target:** [Goal]
-- **Timeline:** [Expected timeframe]
-- **Data Source & Method:** [How you'll measure]
+**Clearer norms and fairness**
+- Consistent expectations reduce uncertainty and perceived unfairness between teams
 
-**KPI 2:** [Third most important outcome measure]
-[Follow same structure]
+### Y - Outcomes (What results I expect)
 
-**KPI 3:** [Fourth most important outcome measure]
-[Follow same structure]
+**Primary outcome:**
+- Lower voluntary turnover rate among hybrid-eligible employees
 
-### Process KPIs (How Implementation Went)
+**Secondary outcomes:**
+- Maintained or improved individual performance ratings
+- Improved self-reported job satisfaction and wellbeing
+- Improved sense of belonging and team cohesion
 
-#### Implementation Quality KPIs
-**KPI:** [Measure of how well you implemented the solution]
-- **Target:** [What good implementation looks like]
+### The complete logic model
+
+**Structured hybrid policy (X) → more connection, lower isolation, clearer norms (M) → lower quits + stable/improved performance and wellbeing (Y)**
+
+---
+
+## 2. Evaluation Design
+
+I'll use a **quasi-experimental before/after design** with internal comparisons. This isn't as strong as a randomized trial, but it's realistic for my organization and still gives me useful data.
+
+### Primary comparison
+
+**Compare hybrid-eligible employees' outcomes in the 12 months BEFORE implementation vs 12 months AFTER implementation**
+
+- This tells me if things got better, worse, or stayed the same after we made the change
+
+### Secondary comparison (if possible)
+
+**Compare hybrid-eligible employees to control groups:**
+
+**Option A:** Employees who remain fully remote (e.g., people who live out of state and weren't required to come in)
+
+**Option B:** Employees with no change in work pattern (e.g., on-site roles that were already in-person full-time)
+
+This helps me rule out alternative explanations - if the hybrid group improves but the comparison groups don't, I can be more confident the hybrid policy caused the improvement.
+
+---
+
+## 3. What I'm Measuring - Outcomes & Metrics
+
+### Primary Outcome: Voluntary Turnover
+
+**Metric:** Voluntary turnover rate for hybrid-eligible employees
+- Formula: Number of voluntary quits ÷ average headcount
+- **Data source:** HRIS / payroll system
+- **Time points:** 
+  - Baseline: 12 months pre-implementation
+  - Follow-up: 6 months and 12 months post-implementation
+- **Target:** Reduce voluntary turnover by at least 20% compared to baseline
+
+### Secondary Outcome 1: Performance
+
+**Metric:** Distribution of performance ratings (or objective performance metrics if available)
+- **Data source:** Annual performance review system
+- **Time points:** Compare pre-implementation year to post-implementation year
+- **Target:** No decline in average performance; ideally slight improvement in team-based work
+- **Why this matters:** Need to make sure hybrid doesn't hurt productivity
+
+### Secondary Outcome 2: Wellbeing and Job Satisfaction
+
+**Metrics:** Survey scores on:
+- Job satisfaction ("How satisfied are you with your job overall?")
+- Burnout/stress ("How often do you feel burned out?")
+- Overall wellbeing ("How would you rate your overall wellbeing?")
+
+**Data source:** Short pulse survey (5-10 questions)
+- **Time points:** Baseline, 6 months, 12 months
+- **Target:** Improvement of at least 10% on wellbeing and satisfaction scores
+- **Scale:** 1-5 or 1-7 Likert scales
+
+### Secondary Outcome 3: Sense of Belonging and Collaboration
+
+**Metrics:** Survey items:
+- "I feel connected to my team"
+- "Our team collaborates effectively"
+- "I feel like I belong at this organization"
+
+**Data source:** Same pulse survey
+- **Time points:** Baseline, 6 months, 12 months
+- **Target:** Improvement compared to fully remote baseline (expecting isolation to decrease)
+
+### Process Metrics (Implementation quality)
+
+**Office utilization on anchor days**
+- **Metric:** % of hybrid employees actually coming in on designated anchor days
+- **Data source:** Badge swipe data or desk booking system
+- **Target:** At least 70% attendance on anchor days
+
+**Manager training participation**
+- **Metric:** % of managers completing hybrid leadership training
+- **Data source:** Training attendance records
+- **Target:** 90% completion
+
+---
+
+## 4. Timeline
+
+### Month 0-2: Pre-implementation
+
+**Activities:**
+- Confirm policy details and identify eligible population
+- Extract baseline HR metrics (turnover, performance ratings)
+- Run baseline pulse survey on satisfaction, wellbeing, belonging
+- Document current office utilization patterns
+
+**Deliverables:**
+- Baseline data report
+- List of eligible employees
+- Survey results
+
+### Month 3-8: Early implementation
+
+**Activities:**
+- Launch hybrid policy and manager training
+- Monitor office usage and operational issues
+- Provide ongoing support to managers
+- Conduct mid-point pulse survey (~Month 6)
+
+**Deliverables:**
+- Mid-point survey results
+- Office utilization report
+- List of issues and how they were addressed
+
+### Month 9-14: Follow-up evaluation
+
+**Activities:**
+- Extract HR metrics for 6-12 months post-implementation
+- Run 12-month pulse survey
+- Conduct focus groups or interviews with sample of employees and managers
+- Compare pre vs post metrics
+
+**Deliverables:**
+- Full evaluation report comparing before and after
+- Qualitative feedback summary
+- Recommendations for scaling, modifying, or rolling back
+
+### Month 15+: Decision and adjustment
+
+**Activities:**
+- Present results to leadership
+- Decide whether to scale, modify, or roll back elements of the policy
+- Make data-informed adjustments
+
+---
+
+## 5. Alternative Explanations & How I'll Address Them
+
+When I see changes in turnover or performance, I need to make sure it's actually because of the hybrid policy and not something else:
+
+### Alternative Explanation 1: Macro labor market changes
+
+**Example:** Maybe the whole economy went into recession and everyone's turnover dropped
+
+**How I'll address it:** Compare my turnover with industry benchmarks or overall company patterns, not just the hybrid group in isolation
+
+### Alternative Explanation 2: Compensation or benefit changes
+
+**Example:** Maybe we gave everyone a big raise at the same time we launched hybrid
+
+**How I'll address it:** Document any major HR policy changes and note them in my interpretation. If big changes coincide with hybrid launch, I'll interpret results cautiously
+
+### Alternative Explanation 3: Organizational restructuring
+
+**Example:** New leadership, mergers, layoffs
+
+**How I'll address it:** Note the timing of any major organizational changes. If they happen during the hybrid pilot, acknowledge this limits what I can conclude
+
+### Alternative Explanation 4: Measurement changes
+
+**Example:** Maybe we changed our performance rating system at the same time
+
+**How I'll address it:** Where possible, use consistent metrics before and after. If metrics change, avoid over-interpreting differences
+
+---
+
+## 6. Implementation Fidelity - Making Sure It's Actually Implemented
+
+Even the best policy won't work if it's not actually implemented as designed. I need to track whether we're doing what we said we'd do.
+
+### Content fidelity (What must be implemented)
+
+**Essential components:**
+- ✅ Clearly defined hybrid policy for eligible roles (2 anchor days + 3 remote)
+- ✅ Manager training on hybrid leadership
+- ✅ Documented team norms (or "team hybrid agreements")
+
+**How I'll check:** Review policy documentation, training records, team agreement documents
+
+### Dose (How much is needed)
+
+**Minimum exposure:**
+- Employees should actually attend the agreed in-office days most weeks (not just ignore the policy)
+- Sustained exposure for at least 6-12 months before judging outcomes
+
+**How I'll check:** Badge swipe data or desk bookings showing attendance patterns
+
+### Moderators (What might strengthen or weaken the effects)
+
+These are factors that might make hybrid work better or worse for different people:
+
+**Commute length & cost**
+- **What to expect:** Longer/more expensive commutes may reduce the positive impact of hybrid on wellbeing and retention
+- **How to track:** Survey item asking about commute time and cost
+
+**Job type**
+- **What to expect:** Collaborative, project-based work may benefit more from in-person days than highly independent work
+- **How to track:** Compare results by job function or department
+
+**Caregiver status / disability**
+- **What to expect:** Employees with caregiving responsibilities or disabilities may experience hybrid differently; they may need additional flexibility or accommodations
+- **How to track:** Demographic data and accommodation requests
+
+**Manager quality**
+- **What to expect:** Good managers can make hybrid work inclusive and fair; poor managers may generate inequity and dissatisfaction
+- **How to track:** Include manager effectiveness questions in pulse surveys; look for patterns by team
+
+---
+
+## Summary: How I'll Know If This Worked
+
+**Short answer:** If voluntary turnover drops, performance stays the same or improves, and employees report better wellbeing and belonging, then hybrid worked.
+
+**Timeline:** I'll have preliminary results at 6 months and conclusive results at 12 months.
+
+**Key metrics to watch:**
+1. Voluntary turnover rate (most important)
+2. Performance ratings (making sure we don't hurt productivity)
+3. Wellbeing and satisfaction scores (intermediate outcomes)
+4. Belonging and collaboration scores (mechanisms)
+
+**What could mess up my conclusions:** Economic changes, other HR policy changes, organizational restructuring happening at the same time
+
+**How I'll handle uncertainty:** Use comparison groups where possible, document alternative explanations, be honest about limitations in my final report
 - **Data Source:** [Where this data comes from]
 - **Collection Method:** [How you'll track this]
 - **Measurement Frequency:** [How often you'll measure]
