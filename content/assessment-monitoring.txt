@@ -84,26 +84,78 @@ This helps me rule out alternative explanations - if the hybrid group improves b
 
 ### Secondary Outcome 2: Wellbeing and Job Satisfaction
 
-**Metrics:** Survey scores on:
-- Job satisfaction ("How satisfied are you with your job overall?")
-- Burnout/stress ("How often do you feel burned out?")
-- Overall wellbeing ("How would you rate your overall wellbeing?")
+**Metrics:** Survey scores - specific questions below
 
-**Data source:** Short pulse survey (5-10 questions)
-- **Time points:** Baseline, 6 months, 12 months
-- **Target:** Improvement of at least 10% on wellbeing and satisfaction scores
-- **Scale:** 1-5 or 1-7 Likert scales
+**Data source:** Short pulse survey (8-10 questions total, 5-7 minutes to complete)
+- **Time points:** Baseline (2-3 weeks before pilot), Month 6, Month 9, Month 12
+- **Target:** Improvement of at least 10% on wellbeing and satisfaction mean scores
+- **Scale:** 5-point Likert scale (1 = Strongly Disagree, 5 = Strongly Agree) for most items
+
+**Specific survey questions:**
+
+1. **Job satisfaction:** "Overall, I am satisfied with my job."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Expected baseline: ~3.5-3.7; Target 12-month: ~3.9-4.1
+
+2. **Burnout (reverse scored):** "I often feel burned out or emotionally exhausted from my work."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Lower is better; Expected baseline: ~3.0-3.2; Target 12-month: ~2.5-2.8
+
+3. **Overall wellbeing:** "I would rate my overall wellbeing (physical, mental, emotional) as:"
+   - Scale: 1 (Very Poor) to 5 (Excellent)
+   - Expected baseline: ~3.4-3.6; Target 12-month: ~3.7-4.0
+
+4. **Work-life balance:** "I have a good balance between my work responsibilities and my personal life."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Expected baseline: ~3.6-3.8; Target 12-month: ~3.9-4.2
+
+5. **Stress:** "How often do you feel stressed because of work?"
+   - Scale: 1 (Almost Never) to 5 (Almost Always)
+   - Lower is better; Expected baseline: ~3.2-3.4; Target 12-month: ~2.8-3.1
 
 ### Secondary Outcome 3: Sense of Belonging and Collaboration
 
-**Metrics:** Survey items:
-- "I feel connected to my team"
-- "Our team collaborates effectively"
-- "I feel like I belong at this organization"
+**Metrics:** Survey items below
 
 **Data source:** Same pulse survey
 - **Time points:** Baseline, 6 months, 12 months
-- **Target:** Improvement compared to fully remote baseline (expecting isolation to decrease)
+- **Target:** Improvement compared to fully remote baseline - expecting 0.3-0.5 point increase on 5-point scale (isolation should decrease with hybrid)
+
+**Specific survey questions:**
+
+6. **Team connection:** "I feel connected to my team members."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Expected baseline (fully remote): ~3.2-3.4; Target 12-month (hybrid): ~3.6-3.9
+
+7. **Organizational belonging:** "I feel like I belong at this organization."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Expected baseline: ~3.5-3.7; Target 12-month: ~3.8-4.1
+
+8. **Team collaboration quality:** "My team collaborates effectively to get work done."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Expected baseline: ~3.6-3.8; Target 12-month: ~3.8-4.1 (stable or slight improvement)
+
+9. **Isolation (reverse scored):** "I feel isolated or lonely in my work."
+   - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+   - Lower is better; Expected baseline (fully remote): ~2.8-3.2; Target 12-month (hybrid): ~2.2-2.6
+
+10. **Manager support:** "My manager provides the support I need to do my best work."
+    - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+    - Expected baseline: ~3.6-3.8; Target 12-month: ~3.8-4.0 (should improve with manager training)
+
+**Additional questions at Month 6 and Month 12 only:**
+
+11. **Policy effectiveness (hybrid-specific):** "The hybrid work policy is working well for me."
+    - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+    - Target: ~3.8-4.2 (most people should find it works reasonably well)
+
+12. **Fairness:** "The hybrid work policy is being applied fairly across teams."
+    - Scale: 1 (Strongly Disagree) to 5 (Strongly Agree)
+    - Target: ~3.8-4.0 (perception of fairness is critical)
+
+13. **Open-ended feedback:**
+    - Month 6: "What's one thing we should change about the hybrid policy?"
+    - Month 12: "Overall, what has been the best and worst part of the hybrid work pilot?"
 
 ### Process Metrics (Implementation quality)
 
@@ -199,7 +251,162 @@ When I see changes in turnover or performance, I need to make sure it's actually
 
 ---
 
-## 6. Implementation Fidelity - Making Sure It's Actually Implemented
+## 6. Sample Size & Statistical Power
+
+### For Turnover Analysis (Primary Outcome)
+
+**Goal:** Detect a 20% reduction in voluntary turnover rate with 80% statistical power
+
+**Assumptions:**
+- Baseline voluntary turnover rate: 15% annually (15 quits per 100 employees)
+- Target turnover rate after hybrid: 12% annually (3 fewer quits per 100 employees)
+- This is a 20% relative reduction: (15-12)/15 = 20%
+- Significance level: α = 0.05 (standard)
+- Desired power: 80% (standard for applied research)
+
+**Sample size needed:**
+Using proportions test for 15% vs 12% with power 0.80:
+- Need approximately **1,500-2,000 employee-years of observation**
+- Translation:
+  - If 200 hybrid-eligible employees: 12 months pre + 12 months post = 400 employee-years each period (800 total) ⚠️ **Underpowered**
+  - If 300 hybrid-eligible employees: 12 months pre + 12 months post = 600 employee-years each period (1,200 total) ⚠️ **Marginally powered**
+  - If 500 hybrid-eligible employees: 12 months pre + 12 months post = 1,000 employee-years each period (2,000 total) ✅ **Adequately powered**
+
+**What this means:**
+- With 200-300 employees, I may not have enough statistical power to detect a 20% reduction, especially if effect is smaller than expected
+- **Alternative approach if sample is small:** Use longer time periods (18-24 months) or accept lower power and interpret results cautiously
+- Even without statistical significance, a reduction in absolute number of quits is still meaningful for the business
+
+**Minimum detectable effect:**
+- With 200 employees (12 months pre/post): Can reliably detect ~30-40% reduction in turnover
+- With 500 employees (12 months pre/post): Can reliably detect ~15-20% reduction in turnover
+
+### For Survey Analysis (Secondary Outcomes)
+
+**Goal:** Detect a 0.3-point improvement on 5-point Likert scale (small to medium effect size, ~0.3-0.4 SD)
+
+**Assumptions:**
+- Baseline mean: 3.5, Standard deviation: 1.0 (typical for Likert scales)
+- Target mean: 3.8 (0.3-point improvement)
+- Cohen's d effect size: 0.30 (small-medium)
+- Desired power: 80%, α = 0.05
+
+**Sample size needed:**
+Using paired t-test (before/after within same employees):
+- Need approximately **90-120 survey respondents** for 80% power to detect 0.3-point change
+
+**What this means:**
+- If I have 200 eligible employees and get 70% response rate: 140 respondents ✅ **Adequately powered**
+- If I have 150 eligible employees and get 60% response rate: 90 respondents ✅ **Minimally powered**
+- **Target response rate: 70%+ to ensure adequate power**
+
+**Strategies to maximize response rate:**
+- Keep survey short (5-7 minutes max)
+- Send reminders (3 total: initial + 2 reminders over 2 weeks)
+- Leader endorsement (email from CEO or department head encouraging participation)
+- Small incentive (raffle for $50-100 gift cards, 5 winners)
+- Communicate how results will be used
+- Anonymous to encourage honesty
+
+---
+
+## 7. Statistical Analysis Plan
+
+### Primary Analysis: Voluntary Turnover
+
+**Hypothesis:** Voluntary turnover rate will be significantly lower in the 12 months after hybrid implementation compared to the 12 months before.
+
+**Analysis method 1: Chi-square test of proportions**
+- Compare: (# of quits in 12 months post) / (average headcount post) vs (# of quits in 12 months pre) / (average headcount pre)
+- Test statistic: Chi-square test for difference in proportions
+- Interpretation: p < 0.05 means turnover change is statistically significant
+
+**Analysis method 2: Survival analysis (if I want more detail)**
+- Use Cox proportional hazards model or Kaplan-Meier survival curves
+- Advantage: Can control for tenure, demographics, job level
+- Allows me to see if hybrid affects time-to-quit differently for different groups
+
+**Effect size:** Calculate relative risk reduction
+- Example: If baseline turnover = 15% and post-hybrid = 12%
+- Relative risk reduction = (15% - 12%) / 15% = 20%
+- Absolute risk reduction = 15% - 12% = 3 percentage points
+
+**Practical significance threshold:**
+- Even if not statistically significant, a reduction of 3+ quits per 100 employees annually (~20% reduction) is practically meaningful
+- Will report both statistical significance (p-value) and practical significance (effect size)
+
+### Secondary Analysis 1: Performance Ratings
+
+**Hypothesis:** Performance ratings will not decline (and may improve slightly) after hybrid implementation.
+
+**Analysis method: Wilcoxon signed-rank test or paired t-test**
+- Compare: Average performance rating before vs after hybrid for same employees
+- If ratings are ordinal (1-5 scale): Use Wilcoxon signed-rank test (non-parametric)
+- If many employees and approximately normal distribution: Can use paired t-test
+- Interpretation: p < 0.05 means significant change; interested in showing no decline (non-inferiority)
+
+**Effect size:** Cohen's d
+- Small effect: d = 0.2
+- Medium effect: d = 0.5
+- Large effect: d = 0.8
+- I expect d close to 0 (no change) or small positive (0.1-0.3 improvement)
+
+### Secondary Analysis 2: Survey Outcomes (Wellbeing, Satisfaction, Belonging)
+
+**Hypothesis:** Survey scores will improve from baseline to 12 months.
+
+**Analysis method: Repeated-measures ANOVA or paired t-tests**
+- Compare: Baseline → Month 6 → Month 12 for each survey item
+- Use paired t-tests for simple before/after comparisons (baseline vs Month 12)
+- Use repeated-measures ANOVA if want to model trajectory over all 3 time points
+- Control for multiple comparisons using Bonferroni correction (divide α by number of tests)
+
+**Key survey items to analyze:**
+1. Job satisfaction (expect +0.3 to +0.5 points)
+2. Wellbeing (expect +0.3 to +0.5 points)
+3. Team connection (expect +0.4 to +0.6 points - biggest expected improvement)
+4. Isolation - reversed (expect -0.4 to -0.6 points - decreased isolation)
+
+**Subgroup analyses (exploratory):**
+- Break down by: job function, commute length, caregiver status, tenure
+- Look for moderators: Does hybrid work better for some groups than others?
+- Be cautious: Multiple subgroup analyses increase risk of false positives
+
+### Visualizations for Results Report
+
+**Figure 1: Turnover trend**
+- Line graph showing monthly voluntary turnover rate over 24 months (12 pre, 12 post)
+- Vertical line marking hybrid policy launch
+- 95% confidence intervals shown
+
+**Figure 2: Survey score changes**
+- Bar chart showing mean scores at Baseline, Month 6, Month 12 for key items
+- Error bars showing 95% confidence intervals
+- Stars indicating statistical significance (* p<0.05, ** p<0.01)
+
+**Figure 3: Before/after comparison**
+- Side-by-side comparison of key metrics (turnover %, performance rating, wellbeing score, belonging score)
+- Show % change and indicate if statistically significant
+
+**Table 1: Detailed results**
+- Rows: Each outcome metric
+- Columns: Baseline mean (SD), 12-month mean (SD), Change, p-value, Effect size
+- Footnotes explaining what p-values and effect sizes mean
+
+### Qualitative Data Analysis
+
+**Open-ended survey responses:**
+- Code responses into themes (e.g., "commute concerns," "better collaboration," "flexibility appreciated," "fairness issues")
+- Count frequency of each theme
+- Include illustrative quotes in final report
+
+**Focus group notes:**
+- Thematic analysis: What are the 3-5 major themes that emerge?
+- Use to provide context for quantitative findings and identify improvement opportunities
+
+---
+
+## 8. Implementation Fidelity - Making Sure It's Actually Implemented
 
 Even the best policy won't work if it's not actually implemented as designed. I need to track whether we're doing what we said we'd do.
 
@@ -239,6 +446,161 @@ These are factors that might make hybrid work better or worse for different peop
 **Manager quality**
 - **What to expect:** Good managers can make hybrid work inclusive and fair; poor managers may generate inequity and dissatisfaction
 - **How to track:** Include manager effectiveness questions in pulse surveys; look for patterns by team
+
+---
+
+## 9. Data Collection Procedures & Quality Control
+
+### Turnover Data Collection
+
+**Data source:** HRIS system (Workday, BambooHR, ADP, or similar)
+
+**Procedure:**
+1. HR analytics team pulls monthly separation reports
+2. Classify each separation as: Voluntary (employee-initiated) vs Involuntary (termination/layoff) vs Retirement
+3. Calculate monthly turnover rate: (# voluntary quits this month) / (average headcount this month) × 100
+4. Track 12-month rolling average to smooth out monthly volatility
+5. **Quality check:** Compare total separations to payroll changes to ensure no missed records
+
+**Data elements needed:**
+- Employee ID (de-identified for analysis)
+- Separation date
+- Separation type (voluntary/involuntary/retirement)
+- Department/team
+- Tenure (to control for natural turnover patterns)
+- Job level (entry/mid/senior)
+
+**Frequency:** Monthly pull, with quarterly aggregation and analysis
+
+### Survey Data Collection
+
+**Platform:** Qualtrics, Culture Amp, SurveyMonkey, or Google Forms (depending on budget and need for advanced analytics)
+
+**Distribution procedure:**
+1. HR sends email invitation with survey link to all hybrid-eligible employees
+2. Email includes: purpose, estimated time (5-7 minutes), anonymity assurance, deadline (2 weeks), incentive details
+3. Reminder #1 at Day 7 (to non-respondents only if platform allows)
+4. Reminder #2 at Day 12 (final reminder)
+5. Survey closes at Day 14
+
+**Response rate tracking:**
+- Monitor daily response rate
+- If below 50% after Week 1, send mid-week boost email from senior leader
+- Target: 70%+ response rate
+
+**Data quality checks:**
+- Flag surveys completed in <2 minutes (possible straight-lining or random clicking) - review and potentially exclude
+- Check for response patterns (e.g., all 5s, all 1s) - may indicate low engagement
+- Ensure no IP addresses or identifying information collected (true anonymity)
+
+**Data cleaning:**
+- Remove duplicate responses (same person taking survey twice)
+- Code open-ended responses: Two independent coders for reliability, resolve disagreements through discussion
+
+### Performance Data Collection
+
+**Data source:** Annual performance review system
+
+**Procedure:**
+1. HR pulls performance ratings for all hybrid-eligible employees
+2. Compare Year -1 (12 months before hybrid) to Year +1 (12 months after hybrid)
+3. If ratings are on different scales year-to-year, standardize (z-scores) before comparing
+4. **Challenge:** Performance ratings may be biased or inconsistent across managers - interpret cautiously
+
+**Data elements needed:**
+- Employee ID (de-identified)
+- Performance rating (numerical or categorical)
+- Manager ID (to control for manager effects)
+- Department/team
+
+### Office Utilization Data Collection
+
+**Data source:** Badge swipe system or desk booking platform
+
+**Procedure:**
+1. IT or facilities team pulls weekly reports showing: Employee ID, Date, Building entry time
+2. Calculate: % of hybrid employees who came in on each anchor day
+3. Track trends: Is attendance declining over time? Are certain teams/days underutilized?
+
+**Target metric:** 70%+ attendance on anchor days (allows for sick days, PTO, travel)
+
+**Flags for concern:**
+- <50% attendance on anchor days → policy not being followed, need to investigate why
+- Wide variation between teams → inconsistent implementation, need manager support
+
+---
+
+## 10. Contingency Plans - What If Things Go Wrong?
+
+### Contingency 1: Very Low Survey Response Rate (<50%)
+
+**Problem:** Can't draw conclusions with low sample
+
+**Mitigation actions:**
+- Extend survey window by 1 week
+- Offer larger incentive (e.g., 10 × $25 gift cards instead of 5 × $50)
+- Have department heads personally encourage their teams
+- Conduct targeted phone/video interviews with random sample of non-responders to understand if their views differ
+
+**Decision rule:** If still <50% response, acknowledge limitation in report and interpret survey results cautiously; rely more heavily on turnover data (objective)
+
+### Contingency 2: Turnover INCREASES After Hybrid Launch
+
+**Problem:** Opposite of intended effect - policy is backfiring
+
+**Diagnostic questions:**
+- Is turnover concentrated in certain teams? (Manager implementation problem)
+- Are exit interviews revealing hybrid policy as a reason for leaving? (Direct evidence of policy failure)
+- Is turnover among people with long commutes or caregiving responsibilities? (Insufficient flexibility/support)
+
+**Mitigation actions:**
+- Immediate pulse survey to understand employee concerns
+- Leadership listening sessions to hear feedback directly
+- Consider pausing or adjusting policy: More flexibility, more exceptions, better commute support
+- Communicate transparently: "We're seeing concerning trends and here's what we're doing about it"
+
+**Decision rule:** If 6-month turnover is >25% higher than baseline, strongly consider modifying or pausing policy
+
+### Contingency 3: Strong Resistance or Fairness Complaints
+
+**Problem:** Employees perceive policy as unfair or poorly implemented
+
+**Diagnostic questions:**
+- Are complaints focused on specific teams/managers? (Inconsistent implementation)
+- Are complaints about the policy itself or how it's communicated/enforced? (Change management failure)
+- Is there a subset of employees (e.g., parents, people with disabilities) disproportionately affected? (Equity issue)
+
+**Mitigation actions:**
+- Audit: Are teams implementing consistently? If not, provide additional manager support
+- Expand exceptions process: Make it clearer and more accessible
+- Offer accommodations: Transit subsidies, flexible anchor days for those with compelling reasons
+- Communicate adjustments transparently
+
+**Decision rule:** If fairness scores on Month 6 survey are <3.0 (below "neutral"), conduct deep-dive investigation and make targeted fixes
+
+### Contingency 4: Major Organizational Change During Pilot
+
+**Problem:** Merger, layoffs, leadership change, or other disruption confounds evaluation
+
+**Mitigation actions:**
+- Document the timing and nature of the disruption
+- If possible, extend pilot period to get "clean" data after disruption settles
+- Be transparent in final report: "Results are difficult to interpret due to [confounding event]"
+- Consider comparison groups unaffected by the disruption (if any exist)
+
+**Decision rule:** If major disruption occurs in Months 1-6, consider extending pilot to 18 months; if in Months 7-12, acknowledge limitation but still analyze available data
+
+### Contingency 5: Key Data Not Available or Poor Quality
+
+**Problem:** HRIS data incomplete, survey platform crashes, performance data inconsistent
+
+**Mitigation actions:**
+- Build relationships with HR analytics and IT early - ensure data access before launch
+- Have backup data sources (e.g., manual exit interview logs if HRIS incomplete)
+- Test survey platform thoroughly before launch; have IT support on standby during survey launch
+- If performance data unavailable, rely more on turnover and survey data
+
+**Decision rule:** If cannot get clean turnover data, evaluation cannot proceed meaningfully - this is the primary outcome
 
 ---
 
